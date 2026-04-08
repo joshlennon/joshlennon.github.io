@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title id="page-title">Catering Services | Absolutely Perfect Catering & Events</title>
+  <meta name="description" id="page-desc" content="Full-service wedding catering, corporate catering, and drop-off delivery by Absolutely Perfect Catering & Events." />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root { --gold:#C9A96E; --gold-light:#E2C896; --gold-deep:#A8864A; --charcoal:#1C1814; --charcoal-mid:#2A2420; --cream:#F8F3EC; --cream-mid:#EFE8DC; --warm-gray:#7A7068; }
+    * { box-sizing:border-box; margin:0; padding:0; }
+    body { font-family:'Jost',sans-serif; background:var(--cream); color:var(--charcoal); overflow-x:hidden; }
+    body::before { content:''; position:fixed; inset:0; background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.035'/%3E%3C/svg%3E"); pointer-events:none; z-index:9999; opacity:0.4; }
+    .display { font-family:'Cormorant Garamond',serif; }
+    nav { position:fixed; top:0; left:0; right:0; z-index:100; background:rgba(28,24,20,0.97); box-shadow:0 1px 0 rgba(201,169,110,0.2); backdrop-filter:blur(12px); }
+    .nav-link { font-size:0.75rem; font-weight:400; letter-spacing:0.18em; text-transform:uppercase; color:rgba(248,243,236,0.8); text-decoration:none; transition:color 0.2s; padding:4px 0; border-bottom:1px solid transparent; }
+    .nav-link:hover { color:var(--gold-light); border-bottom-color:rgba(201,169,110,0.4); }
+    .btn-gold { display:inline-block; font-size:0.72rem; font-weight:500; letter-spacing:0.2em; text-transform:uppercase; color:var(--charcoal); background:linear-gradient(135deg,var(--gold-light) 0%,var(--gold) 50%,var(--gold-deep) 100%); padding:14px 36px; border:none; cursor:pointer; text-decoration:none; transition:opacity 0.2s,transform 0.2s cubic-bezier(0.34,1.56,0.64,1); box-shadow:0 2px 8px rgba(201,169,110,0.3); }
+    .btn-gold:hover { opacity:0.92; transform:translateY(-2px); }
+    .btn-outline { display:inline-block; font-size:0.72rem; font-weight:400; letter-spacing:0.2em; text-transform:uppercase; color:var(--gold); background:transparent; padding:13px 36px; border:1px solid rgba(201,169,110,0.5); cursor:pointer; text-decoration:none; transition:background 0.2s,border-color 0.2s,transform 0.2s; }
+    .btn-outline:hover { background:rgba(201,169,110,0.1); border-color:var(--gold); transform:translateY(-2px); }
+    .section-label { font-size:0.68rem; font-weight:400; letter-spacing:0.25em; text-transform:uppercase; color:var(--gold); }
+    .gold-rule { display:block; width:60px; height:1px; background:linear-gradient(90deg,transparent,var(--gold),transparent); }
+
+    /* Hero */
+    .area-hero { background:var(--charcoal); padding:150px 24px 80px; position:relative; overflow:hidden; }
+    .area-hero::before { content:''; position:absolute; inset:0; background:radial-gradient(ellipse at 25% 60%,rgba(201,169,110,0.12) 0%,transparent 60%),radial-gradient(ellipse at 75% 20%,rgba(168,134,74,0.07) 0%,transparent 55%); }
+
+    /* Breadcrumb */
+    .breadcrumb { display:flex; align-items:center; gap:8px; font-size:0.68rem; letter-spacing:0.1em; color:rgba(248,243,236,0.4); margin-bottom:20px; }
+    .breadcrumb a { color:rgba(248,243,236,0.4); text-decoration:none; transition:color 0.2s; }
+    .breadcrumb a:hover { color:var(--gold-light); }
+
+    /* Content blocks */
+    .content-block { padding:0; }
+    .content-block p { font-size:0.93rem; font-weight:300; line-height:1.9; color:#4a4440; margin-bottom:18px; }
+
+    /* Service type cards */
+    .service-type { background:rgba(255,255,255,0.5); border:1px solid rgba(201,169,110,0.12); padding:28px 24px; }
+    .service-type h4 { font-family:'Cormorant Garamond',serif; font-size:1.2rem; font-weight:500; color:var(--charcoal); margin-bottom:10px; }
+    .service-type p { font-size:0.8rem; font-weight:300; line-height:1.75; color:var(--warm-gray); }
+    .service-type .bar { width:32px; height:1px; background:var(--gold); margin-bottom:16px; }
+
+    /* Venue cards for this city */
+    .venue-card { background:#fff; border:1px solid rgba(201,169,110,0.1); overflow:hidden; display:flex; flex-direction:column; transition:transform 0.3s cubic-bezier(0.34,1.56,0.64,1),box-shadow 0.3s,border-color 0.3s; box-shadow:0 1px 3px rgba(28,24,20,0.04),0 4px 12px rgba(28,24,20,0.05); }
+    .venue-card:hover { transform:translateY(-5px); box-shadow:0 6px 20px rgba(28,24,20,0.1),0 16px 40px rgba(28,24,20,0.08); border-color:rgba(201,169,110,0.3); }
+    .venue-card .thumb { overflow:hidden; height:170px; position:relative; }
+    .venue-card .thumb img { width:100%; height:100%; object-fit:cover; transition:transform 0.6s cubic-bezier(0.16,1,0.3,1); }
+    .venue-card:hover .thumb img { transform:scale(1.06); }
+    .venue-card .thumb::after { content:''; position:absolute; inset:0; background:linear-gradient(to top,rgba(28,24,20,0.4) 0%,transparent 55%); }
+    .venue-card .body { padding:20px; flex:1; display:flex; flex-direction:column; }
+    .venue-card .tag { font-size:0.6rem; letter-spacing:0.16em; text-transform:uppercase; color:var(--gold-deep); margin-bottom:6px; }
+    .venue-card h4 { font-family:'Cormorant Garamond',serif; font-size:1.05rem; font-weight:500; color:var(--charcoal); line-height:1.25; margin-bottom:4px; }
+    .venue-card .sub { font-size:0.7rem; color:var(--warm-gray); font-weight:300; flex:1; margin-bottom:14px; }
+    .venue-card .learn { font-size:0.65rem; letter-spacing:0.16em; text-transform:uppercase; color:var(--gold-deep); text-decoration:none; border-bottom:1px solid rgba(168,134,74,0.3); padding-bottom:2px; align-self:flex-start; transition:color 0.2s,border-color 0.2s; }
+    .venue-card:hover .learn { color:var(--gold); border-bottom-color:var(--gold); }
+
+    /* Nearby cities */
+    .city-chip { display:inline-flex; align-items:center; padding:8px 16px; border:1px solid rgba(28,24,20,0.12); font-size:0.78rem; font-weight:300; color:var(--charcoal); text-decoration:none; transition:background 0.2s,border-color 0.2s,transform 0.2s cubic-bezier(0.34,1.56,0.64,1); }
+    .city-chip:hover { background:rgba(201,169,110,0.1); border-color:var(--gold); transform:translateY(-2px); }
+
+    /* Form */
+    .form-field { width:100%; background:rgba(255,255,255,0.05); border:1px solid rgba(201,169,110,0.2); color:var(--cream); font-family:'Jost',sans-serif; font-size:0.875rem; font-weight:300; padding:12px 16px; outline:none; transition:border-color 0.2s; }
+    .form-field::placeholder { color:rgba(248,243,236,0.3); }
+    .form-field:focus { border-color:var(--gold); }
+    .form-label { font-size:0.65rem; letter-spacing:0.18em; text-transform:uppercase; color:rgba(201,169,110,0.8); display:block; margin-bottom:6px; }
+
+    .skeleton { background:linear-gradient(90deg,rgba(201,169,110,0.08) 25%,rgba(201,169,110,0.15) 50%,rgba(201,169,110,0.08) 75%); background-size:200% 100%; animation:shimmer 1.5s infinite; }
+    @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+    .cms-badge { display:inline-flex; align-items:center; gap:6px; font-size:0.6rem; letter-spacing:0.15em; text-transform:uppercase; color:rgba(201,169,110,0.6); border:1px solid rgba(201,169,110,0.2); padding:3px 10px; }
+
+    #mobile-menu { display:none; }
+    #mobile-menu.open { display:flex; }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="px-6 lg:px-16 py-5">
+    <div class="max-w-7xl mx-auto flex items-center justify-between">
+      <a href="index.html">
+        <img src="brand_assets/Absolutely Perfect logo_FINAL white.png" alt="Absolutely Perfect Catering" class="h-9 w-auto" onerror="this.style.display='none'" />
+      </a>
+      <div class="hidden lg:flex items-center gap-10">
+        <a href="index.html#about" class="nav-link">About</a>
+        <a href="index.html#services" class="nav-link">Services</a>
+        <a href="venues.html" class="nav-link">Venues</a>
+        <a href="areas.html" class="nav-link" style="color:var(--gold);">Areas</a>
+        <a href="index.html#contact" class="btn-gold text-xs">Book Your Event</a>
+      </div>
+      <button class="lg:hidden flex flex-col gap-1.5 p-2 cursor-pointer" onclick="toggleMenu()">
+        <span class="block w-6 h-px bg-amber-100" id="bar1"></span>
+        <span class="block w-6 h-px bg-amber-100" id="bar2"></span>
+        <span class="block w-6 h-px bg-amber-100" id="bar3"></span>
+      </button>
+    </div>
+    <div id="mobile-menu" class="lg:hidden flex-col items-center gap-6 pt-8 pb-10 px-6" style="background:rgba(28,24,20,0.98);">
+      <a href="index.html#about" class="nav-link" onclick="toggleMenu()">About</a>
+      <a href="index.html#services" class="nav-link" onclick="toggleMenu()">Services</a>
+      <a href="venues.html" class="nav-link" onclick="toggleMenu()">Venues</a>
+      <a href="areas.html" class="nav-link" onclick="toggleMenu()">Areas</a>
+      <a href="index.html#contact" class="btn-gold mt-2" onclick="toggleMenu()">Book Your Event</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <div class="area-hero">
+    <div class="max-w-5xl mx-auto" style="position:relative;">
+      <div class="breadcrumb">
+        <a href="index.html">Home</a>
+        <svg width="8" height="8" viewBox="0 0 8 8"><path d="M2 1l3 3-3 3" stroke="currentColor" stroke-width="1.2" fill="none"/></svg>
+        <a href="areas.html">Service Areas</a>
+        <svg width="8" height="8" viewBox="0 0 8 8"><path d="M2 1l3 3-3 3" stroke="currentColor" stroke-width="1.2" fill="none"/></svg>
+        <span id="breadcrumb-title" style="color:rgba(248,243,236,0.6);"></span>
+      </div>
+      <p id="hero-region" class="section-label mb-4"></p>
+      <h1 id="hero-heading" class="display mb-4" style="font-size:clamp(2.2rem,5vw,3.8rem);font-weight:400;line-height:1.1;color:var(--cream);letter-spacing:-0.02em;">
+        <div class="skeleton" style="height:52px;width:60%;"></div>
+      </h1>
+      <p id="hero-intro" style="font-size:0.95rem;font-weight:300;line-height:1.85;color:rgba(248,243,236,0.6);max-width:620px;margin-bottom:24px;">
+        <span class="skeleton" style="display:block;height:12px;width:100%;margin-bottom:6px;"></span>
+        <span class="skeleton" style="display:block;height:12px;width:85%;"></span>
+      </p>
+      <span class="cms-badge">
+        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg>
+        Wix CMS · CityPages Collection
+      </span>
+    </div>
+  </div>
+
+  <!-- MAIN CONTENT -->
+  <div style="padding:64px 24px 80px;">
+    <div class="max-w-5xl mx-auto">
+
+      <!-- Intro + body text -->
+      <div class="grid lg:grid-cols-2 gap-12 mb-16">
+        <div>
+          <p class="section-label mb-3">About This Area</p>
+          <div class="gold-rule" style="margin:0 0 24px 0;"></div>
+          <div id="body-text" class="content-block">
+            <div class="skeleton" style="height:12px;width:100%;margin-bottom:8px;"></div>
+            <div class="skeleton" style="height:12px;width:92%;margin-bottom:8px;"></div>
+            <div class="skeleton" style="height:12px;width:97%;margin-bottom:8px;"></div>
+            <div class="skeleton" style="height:12px;width:85%;"></div>
+          </div>
+        </div>
+        <div>
+          <p class="section-label mb-3">Corporate Catering</p>
+          <div class="gold-rule" style="margin:0 0 24px 0;"></div>
+          <div id="corporate-text" class="content-block">
+            <div class="skeleton" style="height:12px;width:100%;margin-bottom:8px;"></div>
+            <div class="skeleton" style="height:12px;width:88%;margin-bottom:8px;"></div>
+            <div class="skeleton" style="height:12px;width:95%;"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Service types -->
+      <div class="grid sm:grid-cols-3 gap-4 mb-16">
+        <div class="service-type">
+          <div class="bar"></div>
+          <h4>Wedding Catering</h4>
+          <p>Full-service wedding catering with plated dinners, buffets, stations, bar service, and white-glove staffing. Approved at select venues in this area.</p>
+        </div>
+        <div class="service-type">
+          <div class="bar"></div>
+          <h4>Corporate &amp; Drop-Off</h4>
+          <p>Office lunches, meetings, and catered events for groups as small as 10. Hot buffets, tray orders, and custom packages delivered throughout the area.</p>
+        </div>
+        <div class="service-type">
+          <div class="bar"></div>
+          <h4>Social Celebrations</h4>
+          <p>Milestone birthdays, quinceañeras, galas, and private parties. Fully customized menus including diverse cultural cuisines and dietary accommodations.</p>
+        </div>
+      </div>
+
+      <!-- Venues in this area -->
+      <div id="venues-section" style="margin-bottom:64px;display:none;">
+        <div style="display:flex;align-items:baseline;justify-content:space-between;margin-bottom:24px;flex-wrap:wrap;gap:12px;">
+          <div>
+            <h2 class="display" style="font-size:1.9rem;font-weight:400;color:var(--charcoal);">Venues in This Area</h2>
+            <p style="font-size:0.78rem;color:var(--warm-gray);margin-top:4px;font-weight:300;">APC partner venues where we're approved or preferred</p>
+          </div>
+          <a href="venues.html" style="font-size:0.68rem;letter-spacing:0.16em;text-transform:uppercase;color:var(--gold-deep);text-decoration:none;border-bottom:1px solid rgba(168,134,74,0.3);padding-bottom:2px;">View All Venues →</a>
+        </div>
+        <div id="venues-grid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5"></div>
+      </div>
+
+      <!-- CTA -->
+      <div style="background:var(--charcoal);padding:48px 40px;display:flex;flex-direction:column;align-items:flex-start;gap:20px;" class="md:flex-row md:items-center md:justify-between">
+        <div>
+          <h3 class="display mb-2" style="font-size:1.7rem;font-weight:400;color:var(--cream);">Ready to Plan Your Event?</h3>
+          <p style="font-size:0.85rem;font-weight:300;color:rgba(248,243,236,0.55);">Contact us for a complimentary consultation — we'd love to bring your vision to life.</p>
+        </div>
+        <div style="display:flex;gap:12px;flex-shrink:0;flex-wrap:wrap;">
+          <a href="index.html#contact" class="btn-gold">Get a Quote</a>
+          <a href="tel:+14105798777" class="btn-outline" style="color:var(--gold-light);border-color:rgba(201,169,110,0.4);">(410) 579-8777</a>
+        </div>
+      </div>
+
+      <!-- Nearby cities -->
+      <div id="nearby-section" style="margin-top:60px;display:none;">
+        <h3 class="display mb-4" style="font-size:1.4rem;font-weight:400;color:var(--charcoal);">Nearby Service Areas</h3>
+        <div id="nearby-chips" class="flex flex-wrap gap-2"></div>
+      </div>
+
+    </div>
+  </div>
+
+  <footer style="background:#111009;color:rgba(248,243,236,0.4);padding:32px 24px;font-size:0.72rem;letter-spacing:0.06em;">
+    <div class="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-3">
+      <p>&copy; 2026 Absolutely Perfect Catering & Events · Elkridge, MD</p>
+      <div class="flex gap-6">
+        <a href="index.html" style="color:rgba(248,243,236,0.4);text-decoration:none;" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='rgba(248,243,236,0.4)'">Home</a>
+        <a href="venues.html" style="color:rgba(248,243,236,0.4);text-decoration:none;" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='rgba(248,243,236,0.4)'">Venues</a>
+        <a href="areas.html" style="color:rgba(248,243,236,0.4);text-decoration:none;" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='rgba(248,243,236,0.4)'">All Areas</a>
+        <a href="index.html#contact" style="color:rgba(248,243,236,0.4);text-decoration:none;" onmouseover="this.style.color='var(--gold)'" onmouseout="this.style.color='rgba(248,243,236,0.4)'">Contact</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="cms.js"></script>
+  <script>
+    async function init() {
+      const slug = getSlugFromURL();
+      if (!slug) { window.location.href = 'areas.html'; return; }
+
+      const city = await getCityBySlug(slug);
+      if (!city) {
+        document.getElementById('hero-heading').textContent = 'City not found';
+        return;
+      }
+
+      // SEO
+      document.getElementById('page-title').textContent = city.seoTitle || `Catering in ${city.title}, MD | Absolutely Perfect Catering`;
+      document.getElementById('page-desc').setAttribute('content', city.seoDescription || '');
+
+      // Breadcrumb + header
+      document.getElementById('breadcrumb-title').textContent = city.title;
+      document.getElementById('hero-region').textContent = city.county || '';
+      document.getElementById('hero-heading').innerHTML = city.heroHeading
+        ? city.heroHeading.replace(city.title, `<em style="font-style:italic;color:var(--gold);">${city.title}</em>`)
+        : `Catering in <em style="font-style:italic;color:var(--gold);">${city.title}</em>`;
+      document.getElementById('hero-intro').textContent = city.introText || '';
+
+      // Body text
+      const bodyEl = document.getElementById('body-text');
+      bodyEl.innerHTML = (city.bodyText || '').split('\n\n')
+        .map(p => `<p>${p}</p>`).join('') || '';
+
+      // Corporate text
+      const corpEl = document.getElementById('corporate-text');
+      corpEl.innerHTML = (city.corporateText || '').split('\n\n')
+        .map(p => `<p>${p}</p>`).join('') || '';
+
+      // Venues in this county
+      if (city.county) {
+        const venues = await getVenuesByCounty(city.county);
+        if (venues.length) {
+          document.getElementById('venues-section').style.display = 'block';
+          document.getElementById('venues-grid').innerHTML = venues.map(v => {
+            const vslug = slugFromPath(v['link-venues-title']);
+            const img = wixImageUrl(v.image, 600, 400);
+            const descText = parseRichContent(v.description);
+            return `<div class="venue-card">
+              <a href="venue.html?slug=${vslug}" style="text-decoration:none;display:contents;">
+                <div class="thumb">
+                  <img src="${img}" alt="${v.title}" loading="lazy" onerror="this.src='https://placehold.co/600x400/2A2420/C9A96E?text=Venue'" />
+                </div>
+              </a>
+              <div class="body">
+                <p class="tag">${v.venueType || 'Venue'}</p>
+                <a href="venue.html?slug=${vslug}" style="text-decoration:none;"><h4>${v.title || ''}</h4></a>
+                <p class="sub">${v.priceRange || ''}</p>
+                ${descText ? `<p style="font-size:0.78rem;font-weight:300;line-height:1.7;color:#5a534e;margin-bottom:14px;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;">${descText}</p>` : ''}
+                <a href="venue.html?slug=${vslug}" class="learn">View Venue →</a>
+              </div>
+            </div>`;
+          }).join('');
+        }
+      }
+
+      // Nearby cities (same region)
+      if (city.region) {
+        const allCities = await queryWixCollection('CityPages', {
+          filter: { region: { $eq: city.region } },
+          paging: { limit: 10 },
+          sort: [{ fieldName: 'title', order: 'ASC' }],
+        });
+        const others = allCities.filter(c => c.slug !== slug);
+        if (others.length) {
+          document.getElementById('nearby-section').style.display = 'block';
+          document.getElementById('nearby-chips').innerHTML = others.map(c => {
+            const cs = c.slug || c.title.toLowerCase().replace(/\s+/g,'-').replace(/[^a-z0-9-]/g,'');
+            return `<a href="area.html?slug=${cs}" class="city-chip">${c.title}<span style="font-size:0.65rem;color:var(--warm-gray);margin-left:4px;">${c.county || ''}</span></a>`;
+          }).join('');
+        }
+      }
+    }
+
+    let menuOpen = false;
+    function toggleMenu() {
+      menuOpen = !menuOpen;
+      document.getElementById('mobile-menu').classList.toggle('open', menuOpen);
+      document.getElementById('bar1').style.transform = menuOpen ? 'translateY(6px) rotate(45deg)' : '';
+      document.getElementById('bar2').style.opacity = menuOpen ? '0' : '';
+      document.getElementById('bar3').style.transform = menuOpen ? 'translateY(-6px) rotate(-45deg)' : '';
+    }
+
+    init();
+  </script>
+</body>
+</html>
