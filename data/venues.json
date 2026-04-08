@@ -1,0 +1,2772 @@
+[
+  {
+    "mapLocation": {
+      "city": "Baltimore",
+      "location": {
+        "latitude": 39.277,
+        "longitude": -76.611
+      },
+      "streetAddress": {
+        "number": "800",
+        "name": "Key Hwy"
+      },
+      "formatted": "800 Key Hwy, Baltimore, MD 21230, USA",
+      "country": "US",
+      "postalCode": "21230",
+      "subdivision": "MD"
+    },
+    "website": "http://www.avam.org/rent",
+    "agentEmail": "rentals@avam.org",
+    "image": "https://static.wixstatic.com/media/078c15_e629336cd40841438f13abdf74430363~mv2.jpg/v1/fill/w_308,h_228,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/50073200_1158031204364030_50150452220364.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The American Visionary Art Museum (AVAM) in Baltimore's Inner Harbor neighborhood is one of Maryland's most distinctive and inspiring event venues. Celebrating creativity and originality, AVAM offers dramatic event spaces filled with captivating folk art and visionary installations that create a truly one-of-a-kind atmosphere for weddings and private events. Absolutely Perfect Catering & Events provides imaginative, artfully crafted menus that complement this extraordinary creative setting."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "0b783f55-0fb7-4679-9e83-c3a0cd5545b7",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.295Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-04-07T16:38:59.365Z"
+    },
+    "county": "Baltimore City",
+    "seoTitle": "AVAM Baltimore Wedding Venue | Absolutely Perfect Catering",
+    "venueType": "Museum",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/american-visionary-arts-museum",
+    "title": "American Visionary Arts Museum (AVAM)",
+    "seoDescription": "Host a one-of-a-kind wedding at the American Visionary Art Museum in Baltimore, MD. Catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-244-1900",
+    "link-venues-all": "/venues/",
+    "capacity": 300
+  },
+  {
+    "mapLocation": {
+      "subdivisions": [
+        {
+          "code": "MD",
+          "name": "Maryland",
+          "type": "ADMINISTRATIVE_AREA_LEVEL_1"
+        },
+        {
+          "code": "Anne Arundel County",
+          "name": "Anne Arundel County",
+          "type": "ADMINISTRATIVE_AREA_LEVEL_2"
+        },
+        {
+          "code": "Annapolis",
+          "name": "Annapolis",
+          "type": "ADMINISTRATIVE_AREA_LEVEL_3"
+        },
+        {
+          "code": "US",
+          "name": "United States",
+          "type": "COUNTRY"
+        }
+      ],
+      "city": "Annapolis",
+      "location": {
+        "latitude": 38.9689445,
+        "longitude": -76.4764019
+      },
+      "countryFullname": "United States",
+      "streetAddress": {
+        "number": "723",
+        "name": "Second Street",
+        "apt": "",
+        "formattedAddressLine": "723 Second St"
+      },
+      "formatted": "723 Second St, Annapolis, MD 21403, USA",
+      "country": "US",
+      "postalCode": "21403-3323",
+      "subdivision": "MD"
+    },
+    "website": "https://amaritime.org/",
+    "agentEmail": "venue@amaritime.org",
+    "image": "wix:image://v1/b3ee75_080698368f10445ba6440a1100d37125~mv2.png/amm.png#originWidth=900&originHeight=506",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The Annapolis Maritime Museum in Annapolis, Maryland offers a stunning waterfront event setting on the banks of Back Creek in the heart of Eastport. This beloved community museum and venue celebrates the rich maritime heritage of the Chesapeake Bay, providing a picturesque and historic backdrop for outdoor weddings, waterfront receptions, and private celebrations. Absolutely Perfect Catering & Events is proud to bring its Chesapeake-inspired cuisine and exceptional hospitality to the Annapolis Maritime Museum, creating dining experiences as memorable as the beautiful bay setting itself."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "265643ae-6682-4063-b76b-875636082dbd",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T15:50:05.503Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-06T18:53:41.848Z"
+    },
+    "county": "Anne Arundel County",
+    "seoTitle": "Annapolis Maritime Museum Wedding Venue | Absolutely Perfect Catering",
+    "venueType": "Museum / Waterfront",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/annapolis-maritime-museum",
+    "title": "Annapolis Maritime Museum",
+    "seoDescription": "Waterfront wedding venue on Back Creek in Annapolis, MD. Annapolis Maritime Museum events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-295-0104",
+    "link-venues-all": "/venues/",
+    "capacity": 150
+  },
+  {
+    "mapLocation": {
+      "city": "Baltimore",
+      "location": {
+        "latitude": 39.2865,
+        "longitude": -76.6357
+      },
+      "streetAddress": {
+        "number": "901",
+        "name": "W Pratt St"
+      },
+      "formatted": "901 W Pratt St, Baltimore, MD 21223, USA",
+      "country": "US",
+      "postalCode": "21223",
+      "subdivision": "MD"
+    },
+    "website": "http://www.borail.org/Facility-Rentals.aspx",
+    "agentEmail": "khagest@borail.org",
+    "image": "wix:image://v1/b3ee75_bfc7281cac3c4ddca068dd51a09a35ff~mv2.jpg/b&o.jpg#originWidth=1500&originHeight=957",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The B&O Railroad Museum in Baltimore, Maryland is one of the nation's most celebrated historic museums and a truly extraordinary event venue in the heart of West Baltimore. Housed within a stunning 19th-century roundhouse and surrounded by iconic locomotives, the B&O Railroad Museum offers an unparalleled atmosphere of industrial history and architectural grandeur for weddings, galas, and corporate events. Absolutely Perfect Catering & Events is privileged to partner with this iconic Baltimore institution, crafting exceptional menus that honor the heritage and spirit of this magnificent Maryland landmark."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "8d5e7989-42d1-4165-9fa2-5fb59528a9f0",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T16:03:35.889Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-04-07T16:38:20.329Z"
+    },
+    "county": "Baltimore City",
+    "seoTitle": "B&O Railroad Museum Baltimore Wedding Venue | Absolutely Perfect Catering",
+    "venueType": "Museum",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/b-and-o-railroad-museum",
+    "title": "B&O Railroad Museum",
+    "seoDescription": "Historic roundhouse wedding venue in Baltimore, MD. B&O Railroad Museum events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-752-2490",
+    "link-venues-all": "/venues/",
+    "capacity": 500
+  },
+  {
+    "mapLocation": {
+      "city": "Baltimore",
+      "location": {
+        "latitude": 39.2711,
+        "longitude": -76.6148
+      },
+      "streetAddress": {
+        "number": "1415",
+        "name": "Key Hwy"
+      },
+      "formatted": "1415 Key Hwy, Baltimore, MD 21230, USA",
+      "country": "US",
+      "postalCode": "21230",
+      "subdivision": "MD"
+    },
+    "website": "https://www.thebmi.org/host-an-event/",
+    "agentEmail": "info@thebmi.org",
+    "image": "wix:image://v1/b3ee75_98f2d3362a034834a604caf77b51781f~mv2.jpg/bmi.jpg#originWidth=571&originHeight=380",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The Baltimore Museum of Industry (BMI) is an iconic waterfront event venue situated along Baltimore's historic Key Highway, celebrating the city's rich industrial heritage. With sweeping views of the Inner Harbor and unique industrial-chic spaces, BMI provides a remarkable setting for weddings, galas, and corporate celebrations. Absolutely Perfect Catering & Events is proud to serve this landmark venue, crafting exceptional dining experiences that honor Baltimore's storied history."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "ec9770f9-0447-44bf-8fda-9b55cf8bf97a",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.294Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Baltimore City",
+    "seoTitle": "Baltimore Museum of Industry Wedding Venue | Absolutely Perfect Catering",
+    "venueType": "Museum / Waterfront",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/baltimore-museum-of-industry-(bmi)",
+    "title": "Baltimore Museum of Industry (BMI)",
+    "seoDescription": "Industrial-chic waterfront weddings at the Baltimore Museum of Industry. Inner Harbor event venue catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-727-4808",
+    "link-venues-all": "/venues/",
+    "capacity": 400
+  },
+  {
+    "mapLocation": {
+      "city": "Elkridge",
+      "location": {
+        "latitude": 39.1978,
+        "longitude": -76.764
+      },
+      "streetAddress": {
+        "number": "6555",
+        "name": "Belmont Woods Rd"
+      },
+      "formatted": "6555 Belmont Woods Rd, Elkridge, MD 21075, USA",
+      "country": "US",
+      "postalCode": "21075",
+      "subdivision": "MD"
+    },
+    "website": "https://www.belmontmanormd.com",
+    "agentEmail": "BelmontManorMD@howardcountymd.gov",
+    "image": "wix:image://v1/b3ee75_1626ffd1ea5b4a0f82577a55f1207fa5~mv2.jpg/belmont.jpg#originWidth=600&originHeight=485",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Belmont Manor in Elkridge, Maryland is a stunning 18th-century historic estate that serves as one of Howard County's most celebrated event venues. Set on rolling grounds with towering trees and formal gardens, Belmont Manor's elegant manor house and outdoor spaces create a timeless and romantic atmosphere for weddings and special occasions. Absolutely Perfect Catering & Events is proud to serve this iconic Howard County landmark, crafting exceptional menus that reflect the grandeur of this historic estate."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "8833ec8b-44c9-46f4-ae51-c29812e2e305",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.278Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Howard County",
+    "seoTitle": "Belmont Manor Elkridge MD Wedding Venue | Absolutely Perfect Catering",
+    "venueType": "Historic Mansion / Estate",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/belmont-manor",
+    "title": "Belmont Manor",
+    "seoDescription": "18th-century historic estate in Elkridge, MD. Belmont Manor weddings & events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-313-0200",
+    "link-venues-all": "/venues/",
+    "capacity": 250
+  },
+  {
+    "mapLocation": {
+      "city": "Warwick",
+      "location": {
+        "latitude": 39.5585,
+        "longitude": -75.8263
+      },
+      "streetAddress": {
+        "number": "100",
+        "name": "Bohemia Church Rd"
+      },
+      "formatted": "100 Bohemia Church Rd, Warwick, MD 21912, USA",
+      "country": "US",
+      "postalCode": "21912",
+      "subdivision": "MD"
+    },
+    "website": "https://bohemiaoverlook.com",
+    "agentEmail": "grandelkstephanie@gmail.com",
+    "image": "wix:image://v1/b3ee75_580bbfc1fc2546c6864e917d71511c3c~mv2.jpg/Bohemia.jpg#originWidth=1200&originHeight=800",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Bohemia Overlook in Warwick, Maryland is a breathtaking waterfront venue perched above the Chesapeake and Delaware Canal on the Upper Chesapeake Bay in Cecil County. This stunning property features dramatic water views, sweeping open skies, and beautifully manicured grounds that provide a truly spectacular backdrop for outdoor weddings and waterfront celebrations. Absolutely Perfect Catering & Events is honored to bring its finest cuisine to Bohemia Overlook, pairing exceptional flavors with the extraordinary natural beauty of this one-of-a-kind Chesapeake Bay venue."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "8d46e066-0d16-4b71-834e-23fda82832af",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T16:04:01.563Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Cecil County",
+    "seoTitle": "Bohemia Overlook Warwick MD C&D Canal Weddings | Absolutely Perfect",
+    "venueType": "Waterfront",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/bohemia-overlook",
+    "title": "Bohemia Overlook",
+    "seoDescription": "Waterfront venue on the C&D Canal in Warwick, MD. Bohemia Overlook events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "443-877-6313",
+    "link-venues-all": "/venues/",
+    "capacity": 150
+  },
+  {
+    "mapLocation": {
+      "city": "Baltimore",
+      "location": {
+        "latitude": 39.2926,
+        "longitude": -76.6171
+      },
+      "streetAddress": {
+        "number": "1",
+        "name": "Chase St"
+      },
+      "formatted": "1 Chase St, Baltimore, MD 21201, USA",
+      "country": "US",
+      "postalCode": "21201",
+      "subdivision": "MD"
+    },
+    "website": "https://www.chasecourt.com",
+    "agentEmail": "david@chasecourt.com",
+    "image": "https://www.chasecourt.com/wp-content/uploads/2018/02/06-6891-pp_gallery/wedding-venue-baltimore-maryland-7202(pp_w579_h579).jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Chase Court in Baltimore, Maryland is an intimate and enchanting historic venue located in the heart of Baltimore's Mount Vernon neighborhood. This beautifully preserved 1890s carriage house features exposed stone walls, vaulted ceilings, and a romantic garden courtyard that together create an unparalleled setting for small weddings and private celebrations. Absolutely Perfect Catering & Events is delighted to serve Chase Court, bringing artfully composed menus and personalized hospitality to every event in this cherished Baltimore treasure."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "7b6cd65c-ee62-4b81-bca0-12bf9b9e0917",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.260Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Baltimore City",
+    "seoTitle": "Chase Court Baltimore Mount Vernon Weddings | Absolutely Perfect Catering",
+    "venueType": "Historic Carriage House",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/chase-court",
+    "title": "Chase Court",
+    "seoDescription": "1890s carriage house wedding venue in Baltimore's Mount Vernon neighborhood. Chase Court catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-727-1112",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Annapolis",
+      "location": {
+        "latitude": 38.9722,
+        "longitude": -76.4989
+      },
+      "streetAddress": {
+        "number": "6",
+        "name": "Herndon Ave"
+      },
+      "formatted": "6 Herndon Ave, Annapolis, MD 21403, USA",
+      "country": "US",
+      "postalCode": "21403",
+      "subdivision": "MD"
+    },
+    "website": "https://venue.cbf.org/",
+    "agentEmail": "events@cbf.org",
+    "image": "https://images.squarespace-cdn.com/content/v1/61c1f1a5a233d10fe0acd55e/5c11b475-cb5a-4580-ac52-932f916214a0/68+Michelle+%2B+Mike+10.2.21+-+Captured+By+Alyssa.jpg?format=500w",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The Chesapeake Bay Foundation venue in Annapolis, Maryland offers a breathtaking waterfront setting on the shores of the Chesapeake Bay. This eco-conscious venue features stunning panoramic water views and sustainable architecture, creating a one-of-a-kind backdrop for weddings and special events. Absolutely Perfect Catering & Events is honored to provide exceptional catering at this remarkable waterfront location, crafting menus that celebrate the flavors of the Mid-Atlantic region."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "360ff553-2e9f-4bee-80cb-074dd80af9ce",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.298Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-04-07T16:38:49.462Z"
+    },
+    "county": "Anne Arundel County",
+    "seoTitle": "Chesapeake Bay Foundation Venue Annapolis | Absolutely Perfect Catering",
+    "venueType": "Waterfront",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/chesapeake-bay-foundation",
+    "title": "Chesapeake Bay Foundation (CBF)",
+    "seoDescription": "Wed with waterfront views at the Chesapeake Bay Foundation in Annapolis, MD. Eco-conscious event venue catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "443-482-2001",
+    "link-venues-all": "/venues/",
+    "capacity": 175
+  },
+  {
+    "mapLocation": {
+      "city": "Sparks",
+      "location": {
+        "latitude": 39.5073,
+        "longitude": -76.6821
+      },
+      "streetAddress": {
+        "number": "3325",
+        "name": "New Cut Rd"
+      },
+      "formatted": "3325 New Cut Rd, Sparks, MD 21152, USA",
+      "country": "US",
+      "postalCode": "21152",
+      "subdivision": "MD"
+    },
+    "website": "https://www.christianroyerhouse.com/",
+    "agentEmail": "christianroyerhouse@gmail.com",
+    "image": "https://static.wixstatic.com/media/d66967_fde87114bdaf4c988b3279b55ab2a80b~mv2.jpg/v1/fill/w_592,h_394,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/nicolezachwedding-101_edited.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Christian Royer House in Sparks, Maryland is a beautifully restored historic farmhouse venue offering intimate and rustic charm for small weddings and private gatherings. Surrounded by rolling countryside in Baltimore County, this inviting estate features a warm, welcoming atmosphere that makes every guest feel right at home. Absolutely Perfect Catering & Events loves providing heartfelt, farm-to-table inspired cuisine at Christian Royer House, where every detail is crafted with personal care."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "e1fa8475-7f8e-48c2-852b-2505cfeccf54",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.284Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Baltimore County",
+    "seoTitle": "Christian Royer House Sparks MD Events | Absolutely Perfect Catering",
+    "venueType": "Historic Farmhouse",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/christian-royer-house",
+    "title": "Christian Royer House",
+    "seoDescription": "Intimate historic farmhouse venue in Sparks, MD. Christian Royer House weddings catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "301-785-0674",
+    "link-venues-all": "/venues/",
+    "capacity": 100
+  },
+  {
+    "mapLocation": {
+      "city": "Baltimore",
+      "location": {
+        "latitude": 39.2779,
+        "longitude": -76.6198
+      },
+      "streetAddress": {
+        "number": "101",
+        "name": "W Dickman St"
+      },
+      "formatted": "101 W Dickman St, Baltimore, MD 21230, USA",
+      "country": "US",
+      "postalCode": "21230",
+      "subdivision": "MD"
+    },
+    "website": "https://fetewell.com/citizens-ballroom/",
+    "agentEmail": "hello@citizensballroom.com",
+    "image": "https://fetewell.com/wp-content/uploads/2021/08/91E39292-508F-44EC-B4D9-C2EACAAC43F7-826x551.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Citizen's Ballroom is a contemporary event space in the heart of Baltimore, Maryland, designed for couples and planners who want a modern, stylish setting. With its sleek interiors, high ceilings, and customizable layout, it accommodates weddings, galas, and private celebrations in style. Absolutely Perfect Catering & Events is a trusted catering partner at Citizen's Ballroom, delivering chef-crafted menus and seamless service for every occasion."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "51067cca-b63c-47b3-836b-a8f744324ca2",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-05T18:56:13.946Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Baltimore City",
+    "seoTitle": "Citizen's Ballroom Baltimore Weddings | Absolutely Perfect Catering",
+    "venueType": "Modern Ballroom",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/citizen's-ballroom",
+    "title": "Citizen's Ballroom",
+    "seoDescription": "Celebrate at Citizen's Ballroom in Baltimore, MD. Modern, stylish event space for weddings & galas. Catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "443-574-4818",
+    "link-venues-all": "/venues/",
+    "capacity": 300
+  },
+  {
+    "mapLocation": {
+      "formatted": "2701 St Lo Dr, Baltimore, MD 21213"
+    },
+    "website": "https://cliftonmansion.com",
+    "agentEmail": "nlee@civicworks.com",
+    "image": "https://img1.wsimg.com/isteam/ip/a48bb30f-102b-4454-8749-9803e51b99af/IMG_4604.JPG/:/rs=w:1300,h:800",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Clifton Mansion in Baltimore, Maryland is a spectacular Italianate villa and one of the most historically significant estates in the city, once home to Johns Hopkins himself. Perched on a hilltop in Northeast Baltimore with sweeping views of the surrounding landscape, this architectural masterpiece offers a grand and unforgettable setting for weddings and high-profile celebrations. Absolutely Perfect Catering & Events is honored to serve Clifton Mansion, delivering exceptional cuisine worthy of this extraordinary venue's historic grandeur and breathtaking beauty."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "fd254aa9-e0ca-45f2-9fdc-6249af804dcd",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T15:50:05.502Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Baltimore City",
+    "seoTitle": "Clifton Mansion Baltimore Italianate Villa Weddings | Absolutely Perfect",
+    "venueType": "Historic Mansion / Estate",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/clifton-mansion",
+    "title": "Clifton Mansion",
+    "seoDescription": "Johns Hopkins' Italianate villa event venue in Baltimore, MD. Clifton Mansion weddings catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-366-8533",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Lutherville",
+      "location": {
+        "latitude": 39.4385,
+        "longitude": -76.6621
+      },
+      "streetAddress": {
+        "number": "10440",
+        "name": "Falls Rd"
+      },
+      "formatted": "10440 Falls Rd, Lutherville, MD 21093, USA",
+      "country": "US",
+      "postalCode": "21093",
+      "subdivision": "MD"
+    },
+    "website": "http://www.cloisterscastle.com",
+    "agentEmail": "aapplegarth@promotionandarts.org",
+    "image": "https://www.cloisterscastle.com/sites/default/files/styles/extra_large/public/Kayce%20Shoffner%20Photography%20-%20House.jpg?itok=eaZDqTNM",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Cloisters Castle in Lutherville, Maryland is a fairytale venue unlike any other in the region — a stunning 1930s medieval-style stone castle nestled in the rolling hills of Baltimore County. With its turrets, archways, cobblestone courtyards, and sweeping views, Cloisters Castle is the ultimate romantic setting for a storybook wedding. Absolutely Perfect Catering & Events brings regal, beautifully crafted menus to this enchanting castle venue, making every celebration feel truly magical."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "9efd16b3-eafd-41c1-90d1-7262bbe36bf4",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.285Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Baltimore County",
+    "seoTitle": "Cloisters Castle Lutherville MD Wedding Venue | Absolutely Perfect",
+    "venueType": "Castle",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/cloisters-castle",
+    "title": "Cloisters Castle",
+    "seoDescription": "A real Maryland castle wedding venue in Lutherville, MD. Cloisters Castle fairytale events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-821-7448",
+    "link-venues-all": "/venues/",
+    "capacity": 150
+  },
+  {
+    "mapLocation": {
+      "city": "Baltimore",
+      "location": {
+        "latitude": 39.2555,
+        "longitude": -76.7136
+      },
+      "streetAddress": {
+        "number": "1000",
+        "name": "Hilltop Cir"
+      },
+      "formatted": "1000 Hilltop Cir, Baltimore, MD 21250, USA",
+      "country": "US",
+      "postalCode": "21250",
+      "subdivision": "MD"
+    },
+    "website": "https://colwellcenter.usmd.edu/host-an-event",
+    "agentEmail": "ccevents@umbc.edu",
+    "image": "wix:image://v1/b3ee75_1758316dbf1c458fa303b240e4ad77ad~mv2.png/colwell.png#originWidth=750&originHeight=400",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The Colwell Center at UMBC in Baltimore, Maryland is a modern, sophisticated event facility ideal for weddings, conferences, and upscale social gatherings. Featuring state-of-the-art amenities and flexible event spaces on the beautiful UMBC campus, Colwell Center blends contemporary design with practical elegance. Absolutely Perfect Catering & Events delivers refined culinary experiences at this premier venue, ensuring every guest enjoys exceptional food and hospitality."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "4005d0c6-2f27-4bc8-8248-c6e805127702",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.293Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Baltimore City",
+    "seoTitle": "Colwell Center UMBC Baltimore Events | Absolutely Perfect Catering",
+    "venueType": "University / Conference Center",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/colwell-center",
+    "title": "Colwell Center",
+    "seoDescription": "Modern event venue at UMBC in Baltimore, MD. Colwell Center weddings & conferences catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-234-8814",
+    "link-venues-all": "/venues/",
+    "capacity": 350
+  },
+  {
+    "mapLocation": {
+      "city": "Baltimore",
+      "location": {
+        "latitude": 39.3372,
+        "longitude": -76.6418
+      },
+      "streetAddress": {
+        "number": "2010",
+        "name": "Clipper Park Rd"
+      },
+      "formatted": "2010 Clipper Park Rd, Baltimore, MD 21211, USA",
+      "country": "US",
+      "postalCode": "21211",
+      "subdivision": "MD"
+    },
+    "website": "https://corradetti.com",
+    "agentEmail": "info@corradetti.com",
+    "image": "https://images.squarespace-cdn.com/content/v1/corradetti-glassblowing-studio-baltimore.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Corradetti Glassblowing Studio is Baltimore's most distinctive and artistic wedding venue, nestled in the award-winning historic Clipper Mill complex in the Woodberry neighborhood. This stunning 3,400 sq ft space features soaring 20-foot ceilings, exposed brick walls, bamboo hardwood flooring, large windows, and a modern pool fashioned after a Roman bath. Permanent fixtures include a built-in bar, glass sculptural elements, hanging party lights, and an elevated stage — minimal additional décor needed. The rental includes the gallery level filled with vibrant blown-glass artwork made on site. Optional live glassblowing demonstrations can be added for guests. Capacity: up to 110 standing, 75 for a seated dinner. Absolutely Perfect Catering & Events works with this venue as part of their approved caterer network."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "8734bc85-f793-4669-a3ff-2f167bc002fb",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2026-03-10T19:49:15.044Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Baltimore City",
+    "seoTitle": "Corradetti Glassblowing Studio Wedding Venue | Baltimore City MD",
+    "venueType": "Unique / Artistic Studio",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/corradetti-glassblowing-studio",
+    "title": "Corradetti Glassblowing Studio",
+    "seoDescription": "Corradetti Glassblowing Studio in Baltimore's Clipper Mill is a one-of-a-kind artistic wedding venue with 20-foot ceilings, exposed brick, and a live glassblowing studio. Up to 110 guests.",
+    "agentPhone": "(410) 243-2010",
+    "link-venues-all": "/venues/",
+    "capacity": 110
+  },
+  {
+    "mapLocation": {
+      "city": "Baltimore",
+      "location": {
+        "latitude": 39.3609,
+        "longitude": -76.6718
+      },
+      "streetAddress": {
+        "number": "4915",
+        "name": "Greenspring Ave"
+      },
+      "formatted": "4915 Greenspring Ave, Baltimore, MD 21209, USA",
+      "country": "US",
+      "postalCode": "21209",
+      "subdivision": "MD"
+    },
+    "website": "http://www.rawlingsconservatory.org/renting-facility/",
+    "agentEmail": "garden.events@baltimorecity.gov",
+    "image": "https://rawlingsconservatory.org/wp-content/uploads/2011/10/000_0142a.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Cylburn Arboretum, Vollmer Center, and Rawlings Conservatory offer a trio of stunning natural event settings in the heart of Baltimore, Maryland. From the Victorian splendor of the Rawlings Conservatory to the lush gardens of Cylburn Arboretum, these venues provide breathtaking botanical backdrops for weddings, ceremonies, and garden parties. Absolutely Perfect Catering & Events delights in pairing exquisite cuisine with these magical natural surroundings for events that guests will never forget."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "2215e32a-beb9-46a8-98fa-f21a06c059c4",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.292Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Baltimore City",
+    "seoTitle": "Cylburn Arboretum & Rawlings Conservatory Baltimore | Absolutely Perfect",
+    "venueType": "Garden / Botanical",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/cylburn-arboretum%2C-vollmer-center%2C-rawlings-conservatory",
+    "title": "Cylburn Arboretum, Vollmer Center, Rawlings Conservatory",
+    "seoDescription": "Garden weddings at Cylburn Arboretum & Rawlings Conservatory in Baltimore, MD. Botanical event venues catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-396-4860",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Port Tobacco",
+      "location": {
+        "latitude": 38.5038,
+        "longitude": -77.0196
+      },
+      "formatted": "Port Tobacco, MD 20677, USA",
+      "country": "US",
+      "postalCode": "20677",
+      "subdivision": "MD"
+    },
+    "website": "https://donaldsonbrown.com/weddings",
+    "agentEmail": "susan.johnson@umaryland.edu",
+    "image": "https://donaldsonbrown.com/wp-content/uploads/sites/4/2019/10/Ceremony-Details-Ceremony-Cocktail-Hour-0224-1-e1572457255655-1170x1170.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Donaldson Brown Conference Center in Port Tobacco, Maryland is a scenic retreat venue nestled on the banks of the Potomac River in Charles County. With its stunning waterfront views, tranquil natural surroundings, and flexible event spaces, it serves as an ideal destination for weddings, corporate retreats, and private celebrations. Absolutely Perfect Catering & Events brings sophisticated, expertly crafted cuisine to this riverside gem, creating dining experiences as memorable as the views."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "b4510c0c-5f78-44c2-9163-1351f3091116",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.283Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Charles County",
+    "seoTitle": "Donaldson Brown Conference Center Port Tobacco MD | Absolutely Perfect",
+    "venueType": "Waterfront / Conference Center",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/donaldson-brown-conference-center",
+    "title": "Donaldson Brown Conference Center",
+    "seoDescription": "Potomac River conference & wedding venue in Port Tobacco, MD. Donaldson Brown Center catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-378-2555",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Monrovia",
+      "location": {
+        "latitude": 39.3636,
+        "longitude": -77.2834
+      },
+      "streetAddress": {
+        "number": "12100",
+        "name": "Fingerboard Rd"
+      },
+      "formatted": "12100 Fingerboard Rd, Monrovia, MD 21770, USA",
+      "country": "US",
+      "postalCode": "21770",
+      "subdivision": "MD"
+    },
+    "website": "https://floracornerwedding.com/",
+    "agentEmail": "floracornerfarm@gmail.com",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipP4ukMVOSVIA4JE7rib-Jwwpr3V26RcS3QgotOi=w600-h650-p-k-no",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Flora Corner Farm in Monrovia, Maryland is a charming rustic-chic event venue set on a working farm in the rolling hills of Frederick County. Featuring a beautifully appointed barn, open meadows, and stunning countryside views, Flora Corner Farm creates a warm and authentic setting for outdoor weddings and farm-inspired celebrations. Absolutely Perfect Catering & Events loves partnering with Flora Corner Farm to deliver fresh, locally inspired cuisine that honors the spirit of the land and creates a truly immersive farm-to-table experience for every guest."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "1f2b71f1-5a87-41bd-a6b3-bfdafdb77577",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.268Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Frederick County",
+    "seoTitle": "Flora Corner Farm Monrovia MD Wedding Venue | Absolutely Perfect Catering",
+    "venueType": "Farm / Barn",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/flora-corner-farm",
+    "title": "Flora Corner Farm",
+    "seoDescription": "Rustic-chic farm wedding venue in Monrovia, MD. Flora Corner Farm outdoor events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "301-848-3248",
+    "link-venues-all": "/venues/",
+    "capacity": 175
+  },
+  {
+    "mapLocation": {
+      "city": "Baltimore",
+      "location": {
+        "latitude": 39.2827,
+        "longitude": -76.5936
+      },
+      "streetAddress": {
+        "number": "1417",
+        "name": "Thames St"
+      },
+      "formatted": "1417 Thames St, Baltimore, MD 21231, USA",
+      "country": "US",
+      "postalCode": "21231",
+      "subdivision": "MD"
+    },
+    "website": "https://livingclassrooms.org/host-your-event",
+    "agentEmail": "EVENTS@LIVINGCLASSROOMS.ORG",
+    "image": "https://images.squarespace-cdn.com/content/v1/61dca93540574b05602e6466/90af5054-647c-47a3-a854-6a759aac343e/1.jpg?format=2500w",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The Frederick Douglass venue at Living Classrooms in Baltimore, Maryland celebrates history while offering a stunning waterfront event space along the Inner Harbor. Steeped in the legacy of Baltimore's historic Fells Point neighborhood, this unique venue provides a meaningful and beautiful setting for weddings, fundraisers, and private celebrations. Absolutely Perfect Catering & Events is proud to bring its culinary artistry to events at this inspiring waterfront location."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "29898a29-5bc9-4f06-97f6-a1a951f055a3",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.290Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Baltimore City",
+    "seoTitle": "Frederick Douglass Living Classrooms Baltimore | Absolutely Perfect Catering",
+    "venueType": "Historic / Waterfront",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/frederick-douglass",
+    "title": "Frederick Douglass",
+    "seoDescription": "Historic waterfront venue in Fells Point, Baltimore. Frederick Douglass at Living Classrooms catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-685-0295",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Glen Arm",
+      "location": {
+        "latitude": 39.4497,
+        "longitude": -76.5786
+      },
+      "streetAddress": {
+        "number": "11018",
+        "name": "Manor Rd"
+      },
+      "formatted": "11018 Manor Rd, Glen Arm, MD 21057, USA",
+      "country": "US",
+      "postalCode": "21057",
+      "subdivision": "MD"
+    },
+    "website": "https://www.GlenEllenFarm.com",
+    "agentEmail": "debbie@glenellenfarm.com",
+    "image": "https://static.wixstatic.com/media/6d7b24_2067010e0edc4edb80a700eed986786d~mv2.jpg/v1/crop/x_194,y_0,w_5291,h_3786/fill/w_661,h_473,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Outdoor%20Reception%20Tent%20_%20Abbie%20Tyler%20Photography%20(281%20of%20878).jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Glen Ellen Farms in Glen Arm, Maryland is a stunning pastoral estate and event venue set among the rolling hills and farmland of Baltimore County. With its beautifully landscaped grounds, elegant barn spaces, and sweeping countryside views, Glen Ellen Farms offers a breathtaking natural backdrop for outdoor weddings and intimate private celebrations. Absolutely Perfect Catering & Events proudly serves Glen Ellen Farms, crafting seasonal, farm-inspired menus that perfectly reflect the beauty and warmth of this spectacular Maryland estate."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "62cd3e0c-5f20-49ee-9070-fdcb13f43d81",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.272Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Baltimore County",
+    "seoTitle": "Glen Ellen Farms Glen Arm MD Wedding Venue | Absolutely Perfect Catering",
+    "venueType": "Farm / Estate",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/glen-ellen-farms",
+    "title": "Glen Ellen Farms",
+    "seoDescription": "Pastoral estate wedding venue in Glen Arm, MD. Glen Ellen Farms outdoor celebrations catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "240-605-3281",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Prince Frederick",
+      "location": {
+        "latitude": 38.5485,
+        "longitude": -76.5968
+      },
+      "streetAddress": {
+        "number": "3831",
+        "name": "Sixes Rd"
+      },
+      "formatted": "3831 Sixes Rd, Prince Frederick, MD 20678, USA",
+      "country": "US",
+      "postalCode": "20678",
+      "subdivision": "MD"
+    },
+    "website": "https://goodfeelingsfarm.com",
+    "agentEmail": "Karen@goodfeelingsfarm.com",
+    "image": "https://img1.wsimg.com/isteam/ip/8f417854-d3ff-48e0-94c3-32f7c1f810b0/0525.jpg/:/rs=w:1280,h:851",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Good Feeling Farms in Prince Frederick, Maryland is a charming and picturesque farm event venue set among the rolling fields and open skies of Calvert County. With its rustic barn, open-air ceremony spaces, and wide scenic vistas, Good Feeling Farms delivers an authentic, feel-good atmosphere perfect for outdoor weddings and joyful gatherings. Absolutely Perfect Catering & Events loves bringing its signature farm-to-table inspired cuisine to Good Feeling Farms, creating a warm and delicious dining experience that perfectly complements the relaxed, natural beauty of this Southern Maryland gem."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "adcd6f7a-0db7-43d5-be8f-7494d25a4978",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.262Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Calvert County",
+    "seoTitle": "Good Feeling Farms Prince Frederick MD Weddings | Absolutely Perfect",
+    "venueType": "Farm / Barn",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/good-feeling-farms",
+    "title": "Good Feeling Farms",
+    "seoDescription": "Rustic farm wedding venue in Prince Frederick, MD. Good Feeling Farms outdoor events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "443-605-7042",
+    "link-venues-all": "/venues/",
+    "capacity": 150
+  },
+  {
+    "mapLocation": {
+      "city": "Stevenson",
+      "location": {
+        "latitude": 39.3901,
+        "longitude": -76.7129
+      },
+      "streetAddress": {
+        "number": "1400",
+        "name": "Greenspring Valley Rd"
+      },
+      "formatted": "1400 Greenspring Valley Rd, Stevenson, MD 21153, USA",
+      "country": "US",
+      "postalCode": "21153",
+      "subdivision": "MD"
+    },
+    "website": "https://www.gramercymansion.com",
+    "agentEmail": "info@gramercymansion.com",
+    "image": "https://www.gramercymansion.com/wp-content/uploads/2023/10/Gramercy_mansion_garden_boho_baltimore_maryland_wedding_photographer_photo-696-scaled.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Gramercy Mansion & Carriage House in Stevenson, Maryland is a magnificent 1902 Tudor-style estate set on 45 acres of lush grounds in Baltimore County. Known for its romantic gardens, grand interior spaces, and charming carriage house, Gramercy Mansion is one of the most sought-after wedding venues in the Mid-Atlantic. Absolutely Perfect Catering & Events is thrilled to be a preferred catering partner at Gramercy, crafting exquisite menus that match the estate's timeless elegance."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "58bae0b8-d51c-403b-b1d1-cf3733136a9f",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.286Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Baltimore County",
+    "seoTitle": "Gramercy Mansion Baltimore County Weddings | Absolutely Perfect Catering",
+    "venueType": "Historic Mansion / Estate",
+    "priceRange": "$$$$",
+    "link-venues-title": "/venues/gramercy-mansion-%26-carriage-house",
+    "title": "Gramercy Mansion & Carriage House",
+    "seoDescription": "1902 Tudor estate in Stevenson, MD. Gramercy Mansion & Carriage House weddings catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-486-2405",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Cockeysville",
+      "location": {
+        "latitude": 39.4744,
+        "longitude": -76.653
+      },
+      "streetAddress": {
+        "number": "304",
+        "name": "International Cir"
+      },
+      "formatted": "304 International Cir, Cockeysville, MD 21030, USA",
+      "country": "US",
+      "postalCode": "21030",
+      "subdivision": "MD"
+    },
+    "website": "https://mdmasons.org/facility-rental/",
+    "agentEmail": "glballroom@glmd.org",
+    "image": "wix:image://v1/b3ee75_ba909cb3f18a4d12a51fd23ec3e1b65a~mv2.jpg/d956c833-2e44-4a0f-8755-9a754974.jpg#originWidth=840&originHeight=390",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The Grand Lodge of Maryland in Cockeysville is a distinguished and elegant venue steeped in centuries of Masonic tradition and heritage. Its grand ballroom and beautifully appointed event spaces exude timeless sophistication, making it an ideal setting for weddings, galas, and formal celebrations. Absolutely Perfect Catering & Events is honored to provide elevated dining experiences at this storied Maryland institution, where every event is treated with the utmost care and professionalism."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "a5aa5f7a-5b1f-41a3-bb04-5093f78fa7f7",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.287Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Baltimore County",
+    "seoTitle": "Grand Lodge of Maryland Cockeysville Events | Absolutely Perfect Catering",
+    "venueType": "Historic Ballroom",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/grand-lodge-of-maryland",
+    "title": "Grand Lodge of Maryland",
+    "seoDescription": "Elegant Masonic ballroom in Cockeysville, MD. Grand Lodge of Maryland weddings & galas catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-527-0600",
+    "link-venues-all": "/venues/",
+    "capacity": 400
+  },
+  {
+    "mapLocation": {
+      "city": "Chestertown",
+      "location": {
+        "latitude": 39.1996,
+        "longitude": -76.0895
+      },
+      "streetAddress": {
+        "number": "10568",
+        "name": "Cliff Rd"
+      },
+      "formatted": "10568 Cliff Rd, Chestertown, MD 21620, USA",
+      "country": "US",
+      "postalCode": "21620",
+      "subdivision": "MD"
+    },
+    "website": "https://greatoakmanor.com",
+    "agentEmail": "info@greatoakmd.com",
+    "image": "https://cdn0.weddingwire.com/review/5894/original/960/jpg/1884985.webp",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Great Oak Manor in Chestertown, Maryland is a magnificent waterfront estate and bed-and-breakfast on the Eastern Shore, offering an incomparable setting for destination weddings and intimate celebrations on the banks of the Chesapeake Bay. This stunning 1938 Georgian manor house sits on 12 acres of manicured grounds with sweeping bay views, private beach access, and beautifully appointed rooms that make every event a true luxury experience. Absolutely Perfect Catering & Events brings sophisticated, Chesapeake-inspired cuisine to Great Oak Manor, perfectly complementing the grandeur and natural beauty of this extraordinary Eastern Shore gem."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "7c827725-ec66-4154-abb6-ff5e486a45b0",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.264Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Kent County",
+    "seoTitle": "Great Oak Manor Chestertown MD Waterfront Weddings | Absolutely Perfect",
+    "venueType": "Historic Mansion / Waterfront",
+    "priceRange": "$$$$",
+    "link-venues-title": "/venues/great-oak-manor",
+    "title": "Great Oak Manor",
+    "seoDescription": "1938 Georgian waterfront estate in Chestertown, MD. Great Oak Manor weddings catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-778-5943",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Randallstown",
+      "location": {
+        "latitude": 39.3724,
+        "longitude": -76.7918
+      },
+      "streetAddress": {
+        "number": "3001",
+        "name": "Offut Rd"
+      },
+      "formatted": "3001 Offut Rd, Randallstown, MD 21133, USA",
+      "country": "US",
+      "postalCode": "21133",
+      "subdivision": "MD"
+    },
+    "website": "https://greyrockmansion.com",
+    "agentEmail": "greyrockmansion@gmail.com",
+    "image": "https://greyrockmansion.com/wp-content/uploads/2019/03/grey-rock-mansion-104.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Grey Rock Mansion in Randallstown, Maryland is a stately and elegant historic venue set on beautifully landscaped grounds in Baltimore County. With its classic manor architecture, sweeping lawns, and versatile indoor and outdoor event spaces, Grey Rock Mansion offers a refined and gracious setting for weddings, galas, and private celebrations. Absolutely Perfect Catering & Events is proud to partner with Grey Rock Mansion, crafting sophisticated and seasonal menus that reflect the elegance and warmth of this distinguished Maryland estate."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "1466552e-8002-45a3-9a4e-3a3941a1db81",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.261Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Baltimore County",
+    "seoTitle": "Grey Rock Mansion Randallstown MD Weddings | Absolutely Perfect Catering",
+    "venueType": "Historic Mansion",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/grey-rock-mansion",
+    "title": "Grey Rock Mansion",
+    "seoDescription": "Elegant historic mansion in Randallstown, MD. Grey Rock Mansion weddings & events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-486-5621",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Crownsville",
+      "location": {
+        "latitude": 39.0225,
+        "longitude": -76.6002
+      },
+      "streetAddress": {
+        "number": "1025",
+        "name": "Generals Hwy"
+      },
+      "formatted": "1025 Generals Hwy, Crownsville, MD 21032, USA",
+      "country": "US",
+      "postalCode": "21032",
+      "subdivision": "MD"
+    },
+    "website": "https://www.baldwinhall.org/",
+    "agentEmail": "manager@baldwinhall.org",
+    "image": "https://static.wixstatic.com/media/6aa4d4_7eb1dfa5c045413a8e4178a7bfa93c2c~mv2_d_2840_2129_s_2.jpg/v1/fill/w_426,h_312,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/BALDWINHALL_2.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Historic Baldwin Hall in Crownsville, Maryland is a stately and beautifully maintained historic venue in Anne Arundel County, offering a distinguished setting for weddings, celebrations, and community gatherings. With its classic architecture, expansive grounds, and gracious atmosphere, Baldwin Hall evokes the timeless charm of Maryland's storied past while providing modern amenities for contemporary events. Absolutely Perfect Catering & Events proudly provides exceptional cuisine and gracious service at Historic Baldwin Hall, making every occasion as memorable as the venue's own remarkable heritage."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "3e875b61-d956-453c-8239-20f78371c880",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T16:48:29.716Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Anne Arundel County",
+    "seoTitle": "Historic Baldwin Hall Crownsville MD Weddings | Absolutely Perfect Catering",
+    "venueType": "Historic Ballroom",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/historic-baldwin-hall",
+    "title": "Historic Baldwin Hall",
+    "seoDescription": "Historic event venue in Crownsville, MD. Baldwin Hall weddings & celebrations catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-923-3438",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Edgewater",
+      "location": {
+        "latitude": 38.9422,
+        "longitude": -76.5617
+      },
+      "streetAddress": {
+        "number": "839",
+        "name": "Londontown Rd"
+      },
+      "formatted": "839 Londontown Rd, Edgewater, MD 21037, USA",
+      "country": "US",
+      "postalCode": "21037",
+      "subdivision": "MD"
+    },
+    "website": "https://www.londontownweddings.com",
+    "agentEmail": "events@historiclondontown.org",
+    "image": "https://images.squarespace-cdn.com/content/v1/5f4b7c6e3e2a5d3c6b8c9f1e/londontownweddings-pavilion.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Nestled on the banks of the South River minutes from downtown Annapolis, Historic London Town & Gardens is a premier waterfront wedding venue set on 23 acres of pristine gardens and historic grounds. Established in 1683, the property features the circa 1760 William Brown House — a National Historic Landmark — a gorgeous glass waterfront pavilion, a 185-foot pier, sweeping river views, and year-round blooms. Ceremonies are held on scenic waterfront lawns with a beautiful indoor pavilion as weather backup. Up to 200 guests. Absolutely Perfect Catering & Events is an approved caterer at this venue."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "facdde6f-dfe0-4ddc-9ba5-7c756476c24a",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2026-03-10T19:49:04.669Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Anne Arundel County",
+    "seoTitle": "Historic London Town & Gardens Wedding Venue | Edgewater, Anne Arundel County MD",
+    "venueType": "Waterfront / Historic Garden",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/historic-london-town-%26-gardens",
+    "title": "Historic London Town & Gardens",
+    "seoDescription": "Historic London Town & Gardens in Edgewater, Maryland offers waterfront wedding ceremonies and receptions on 23 acres of historic gardens along the South River near Annapolis. Up to 200 guests.",
+    "agentPhone": "(410) 222-1919",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Columbia",
+      "location": {
+        "latitude": 39.2057,
+        "longitude": -76.8601
+      },
+      "streetAddress": {
+        "number": "5430",
+        "name": "Vantage Point Rd"
+      },
+      "formatted": "5430 Vantage Point Rd, Columbia, MD 21044, USA",
+      "country": "US",
+      "postalCode": "21044",
+      "subdivision": "MD"
+    },
+    "website": "https://www.historic-oakland.com",
+    "agentEmail": "info@historic-oakland.com",
+    "image": "https://www.historic-oakland.com/wp-content/uploads/2021/03/historic-oakland-mansion-exterior.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Built in 1811, Historic Oakland Mansion is one of the most beautiful and historic buildings in Howard County, Maryland. Nestled in a peaceful wooded area in the heart of downtown Columbia, this elegant Federal, Greek Revival, and Colonial Revival manor house offers multiple levels of entertaining space — including a crystal chandelier Ballroom with glass doors opening onto an enclosed Veranda, a Library, Gathering Room, Foyer, and the romantic Bishop's Garden. Ceremonies take place on the sweeping front lawn or in the garden, with tented receptions available on the back patio. Absolutely Perfect Catering & Events is proud to serve Historic Oakland Mansion as an approved outside caterer at this iconic Howard County venue."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "60eba4f0-29d3-4b43-acca-1f10e801e985",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2026-03-10T19:48:55.167Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Howard County",
+    "seoTitle": "Historic Oakland Mansion Wedding Venue | Columbia, Howard County MD",
+    "venueType": "Historic Mansion",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/historic-oakland-mansion",
+    "title": "Historic Oakland Mansion",
+    "seoDescription": "Historic Oakland Mansion in Columbia, Maryland is a stunning 1811 Federal-style manor house offering wedding ceremonies, receptions, and events for up to 172 guests in Howard County. Open catering policy.",
+    "agentPhone": "(410) 730-4801",
+    "link-venues-all": "/venues/",
+    "capacity": 172
+  },
+  {
+    "mapLocation": {
+      "city": "Ellicott City",
+      "location": {
+        "latitude": 39.2562,
+        "longitude": -76.8418
+      },
+      "streetAddress": {
+        "number": "9430",
+        "name": "Frederick Rd"
+      },
+      "formatted": "9430 Frederick Rd, Ellicott City, MD 21042, USA",
+      "country": "US",
+      "postalCode": "21042",
+      "subdivision": "MD"
+    },
+    "website": "https://www.historicwaverlymansionmd.com",
+    "agentEmail": "waverlymansionmd@howardcountymd.gov",
+    "image": "wix:image://v1/b3ee75_adf4113b8ae344af906d7c080ec144b0~mv2.jpg/Waverly.jpg#originWidth=1516&originHeight=1012",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Historic Waverly Mansion is a stunning 19th-century estate nestled in Ellicott City, Maryland, offering a breathtaking backdrop for weddings and special events. Set on beautifully landscaped grounds, this Howard County gem features elegant indoor ballrooms and sweeping outdoor spaces perfect for ceremonies and receptions. Absolutely Perfect Catering & Events is proud to partner with Waverly Mansion to deliver unforgettable catering experiences in one of Maryland's most cherished historic venues."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "dbda92dd-a75d-41e8-a44e-57620bf676af",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2026-02-12T17:37:31.278Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Howard County",
+    "seoTitle": "Historic Waverly Mansion Weddings | Catering by Absolutely Perfect",
+    "venueType": "Historic Mansion",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/historic-waverly-mansion",
+    "title": "Historic Waverly Mansion",
+    "seoDescription": "Host your wedding or event at Historic Waverly Mansion in Ellicott City, MD. Absolutely Perfect Catering & Events delivers exceptional menus at this stunning 19th-century Howard County estate.",
+    "agentPhone": "410-313-0200",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Woodstock",
+      "location": {
+        "latitude": 39.3151,
+        "longitude": -76.8575
+      },
+      "streetAddress": {
+        "number": "10520",
+        "name": "Old Frederick Rd"
+      },
+      "formatted": "10520 Old Frederick Rd, Woodstock, MD 21163, USA",
+      "country": "US",
+      "postalCode": "21163",
+      "subdivision": "MD"
+    },
+    "website": "https://howardnature.org/facilityrental/",
+    "agentEmail": "katherine.elicker@howardnature.org",
+    "image": "https://www.howardnature.org/wp-content/uploads/2018/01/WANG-WEDDING-HIGHLIGHTS-314-1024x683.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The Howard County Conservancy in Woodstock, Maryland is a beloved 232-acre nature preserve and event venue nestled in the Patuxent River valley. Featuring restored 19th-century farm buildings, sweeping meadows, and enchanting woodland gardens, this unique Howard County landmark offers a naturally stunning setting for outdoor weddings, eco-conscious celebrations, and private events. Absolutely Perfect Catering & Events is proud to bring sustainably inspired, seasonal menus to the Howard County Conservancy, honoring the land's natural heritage with every dish served."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "e69762b4-6549-43ce-be5a-bc1f18d97a6c",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.263Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Howard County",
+    "seoTitle": "Howard County Conservancy Woodstock MD Weddings | Absolutely Perfect",
+    "venueType": "Garden / Outdoor",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/howard-county-conservancy-(hcc)",
+    "title": "Howard County Conservancy (HCC)",
+    "seoDescription": "Eco-friendly outdoor wedding venue in Woodstock, MD. Howard County Conservancy events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-465-8877",
+    "link-venues-all": "/venues/",
+    "capacity": 150
+  },
+  {
+    "mapLocation": {
+      "city": "North East",
+      "location": {
+        "latitude": 39.6007,
+        "longitude": -75.9479
+      },
+      "streetAddress": {
+        "number": "3",
+        "name": "Calvert St"
+      },
+      "formatted": "3 Calvert St, North East, MD 21901, USA",
+      "country": "US",
+      "postalCode": "21901",
+      "subdivision": "MD"
+    },
+    "website": "https://labanquedefleuve.com/weddings",
+    "agentEmail": "kimbarth3@gmail.com",
+    "image": "wix:image://v1/b3ee75_d114c0aefc3047d997d57d8a1aa657e8~mv2.jpg/La%20banque.jpg#originWidth=1199&originHeight=779",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "La Banque de Fleuve in North East, Maryland is a beautifully restored historic bank building transformed into a unique and charming event venue along the Elk River on the Upper Chesapeake Bay. Its striking architecture, intimate atmosphere, and waterfront access make it a wonderful choice for small weddings, anniversaries, and private celebrations in Cecil County. Absolutely Perfect Catering & Events brings refined, creative cuisine to this one-of-a-kind riverfront venue, elevating every event with exceptional flavors."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "9ddf734f-2af5-4920-99e5-8176ec9128c2",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.280Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Cecil County",
+    "seoTitle": "La Banque de Fleuve North East MD Wedding Venue | Absolutely Perfect",
+    "venueType": "Historic / Waterfront",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/la-banque-de-fleuve",
+    "title": "La Banque de Fleuve",
+    "seoDescription": "Restored historic bank on the Elk River in North East, MD. La Banque de Fleuve events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-942-1444",
+    "link-venues-all": "/venues/",
+    "capacity": 120
+  },
+  {
+    "mapLocation": {
+      "city": "Columbia",
+      "location": {
+        "latitude": 39.2101,
+        "longitude": -76.8724
+      },
+      "streetAddress": {
+        "number": "5586",
+        "name": "Harpers Farm Rd"
+      },
+      "formatted": "5586 Harpers Farm Rd, Columbia, MD 21044, USA",
+      "country": "US",
+      "postalCode": "21044",
+      "subdivision": "MD"
+    },
+    "website": "https://dorseyssearch.org/rental-space/",
+    "agentEmail": "IHatz@columbiavillages.org",
+    "image": "wix:image://v1/b3ee75_c6a8dacaa0254f4e99b13f4e33a0556d~mv2.jpg/Linden.jpg#originWidth=820&originHeight=460",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Linden Hall in Columbia, Maryland is a beloved community event space nestled in the heart of Howard County. With its welcoming atmosphere, flexible indoor spaces, and lovely surrounding grounds, Linden Hall is an ideal setting for weddings, birthday celebrations, reunions, and community gatherings. Absolutely Perfect Catering & Events brings warmth and culinary excellence to every event at Linden Hall, ensuring that hosts and guests alike enjoy an exceptional and stress-free experience."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "27c250f0-2a9f-4be5-903e-a10c41a754b9",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.277Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Howard County",
+    "seoTitle": "Linden Hall Columbia MD Events | Absolutely Perfect Catering",
+    "venueType": "Community / Event Center",
+    "priceRange": "$",
+    "link-venues-title": "/venues/linden-hall",
+    "title": "Linden Hall",
+    "seoDescription": "Community event venue in Columbia, MD. Linden Hall weddings & gatherings catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-730-4005",
+    "link-venues-all": "/venues/",
+    "capacity": 150
+  },
+  {
+    "mapLocation": {
+      "city": "Boyds",
+      "location": {
+        "latitude": 39.1728,
+        "longitude": -77.3247
+      },
+      "streetAddress": {
+        "number": "14700",
+        "name": "Clopper Rd"
+      },
+      "formatted": "14700 Clopper Rd, Boyds, MD 20841, USA",
+      "country": "US",
+      "postalCode": "20841",
+      "subdivision": "MD"
+    },
+    "website": "https://montgomeryparks.org/parks-and-trails/lodge-little-seneca-creek",
+    "agentEmail": "eventcenters@montgomeryparks.org",
+    "image": "https://montgomeryparks.org/wp-content/uploads/2021/05/Seneca-Lodge-Banner-3-1800x1013.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The Lodge at Little Seneca Creek in Boyds, Maryland is a serene and scenic event venue nestled within Black Hill Regional Park in Montgomery County. Surrounded by the beautiful Little Seneca Lake and lush parkland, this charming lodge offers an ideal retreat setting for weddings, corporate gatherings, and intimate celebrations in nature. Absolutely Perfect Catering & Events is delighted to bring its exceptional culinary offerings to the Lodge at Little Seneca Creek, creating memorable dining experiences in harmony with this stunning natural setting."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "dd694616-1743-4c84-81c7-d6055fb457d2",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.265Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Montgomery County",
+    "seoTitle": "Lodge at Little Seneca Creek Boyds MD | Absolutely Perfect Catering",
+    "venueType": "Garden / Outdoor",
+    "priceRange": "$",
+    "link-venues-title": "/venues/lodge-at-little-seneca-creek",
+    "title": "Lodge At Little Seneca Creek",
+    "seoDescription": "Lakeside lodge venue in Black Hill Park, Boyds, MD. Lodge at Little Seneca Creek events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "301-563-7510",
+    "link-venues-all": "/venues/",
+    "capacity": 150
+  },
+  {
+    "mapLocation": {
+      "city": "Ellicott City",
+      "location": {
+        "latitude": 39.2678,
+        "longitude": -76.7984
+      },
+      "streetAddress": {
+        "number": "101",
+        "name": "N Main St"
+      },
+      "formatted": "101 N Main St, Ellicott City, MD 21043, USA",
+      "country": "US",
+      "postalCode": "21043",
+      "subdivision": "MD"
+    },
+    "website": "https://www.mainstballroom.com/",
+    "agentEmail": "hello@mainstballroom.com",
+    "image": "https://fetewell.com/wp-content/uploads/2021/08/E7F360F6-FE29-4F98-A080-21BDBAE20F89-826x551.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Main Street Ballroom in Ellicott City, Maryland is a stunning historic event venue set in the heart of Old Ellicott City's beloved Main Street district. With its exposed stone walls, soaring ceilings, and elegant chandeliers, this beautifully restored 19th-century building creates a sophisticated and romantic atmosphere for weddings, galas, and private events. Absolutely Perfect Catering & Events is proud to be a preferred caterer at Main Street Ballroom, delivering exceptional cuisine and flawless service to every event in this iconic Howard County landmark."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "d789cda0-bc79-4c93-97de-7f04825e20ab",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.276Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Howard County",
+    "seoTitle": "Main Street Ballroom Ellicott City Weddings | Absolutely Perfect Catering",
+    "venueType": "Historic Ballroom",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/main-street-ballroom",
+    "title": "Main Street Ballroom",
+    "seoDescription": "Historic stone ballroom on Old Ellicott City's Main Street. Elegant weddings catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "301-358-9372",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Mitchellville",
+      "location": {
+        "latitude": 38.9317,
+        "longitude": -76.7659
+      },
+      "streetAddress": {
+        "number": "2708",
+        "name": "Enterprise Rd"
+      },
+      "formatted": "2708 Enterprise Rd, Mitchellville, MD 20721, USA",
+      "country": "US",
+      "postalCode": "20721",
+      "subdivision": "MD"
+    },
+    "website": "https://www.pgparks.com/3008/Newton-White-Mansion",
+    "agentEmail": "newton.white@pgparks.com",
+    "image": "https://www.pgparks.com/wp-content/uploads/2023/02/NewtonWhiteExteriors19-018_1200.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Newton White Mansion in Mitchellville, Maryland is a grand and gracious estate venue in Prince George's County, offering elegant indoor ballrooms and beautiful formal gardens perfect for weddings and large celebrations. This magnificent historic property combines classic Southern charm with refined grandeur, creating an unforgettable backdrop for milestone events. Absolutely Perfect Catering & Events is proud to be a trusted catering partner at Newton White Mansion, delivering sophisticated menus and impeccable service to every event held at this distinguished Maryland estate."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "1667e998-8810-4ba0-aed0-56626f0ff70e",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.270Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Prince George's County",
+    "seoTitle": "Newton White Mansion Mitchellville MD Weddings | Absolutely Perfect",
+    "venueType": "Historic Mansion / Estate",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/newton-white-mansion",
+    "title": "Newton White Mansion",
+    "seoDescription": "Grand estate wedding venue in Mitchellville, MD. Newton White Mansion events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "301-249-2004",
+    "link-venues-all": "/venues/",
+    "capacity": 300
+  },
+  {
+    "mapLocation": {
+      "city": "Columbia",
+      "location": {
+        "latitude": 39.1922,
+        "longitude": -76.8199
+      },
+      "streetAddress": {
+        "number": "10080",
+        "name": "Old Columbia Rd"
+      },
+      "formatted": "10080 Old Columbia Rd, Columbia, MD 21046, USA",
+      "country": "US",
+      "postalCode": "21046",
+      "subdivision": "MD"
+    },
+    "website": "https://thecarriagehouseincolumbia.com/",
+    "agentEmail": "carriagehouseevents@gmail.com",
+    "image": "https://images.cvent.com/ws/images/venues/8170/Oliver-s-Carriage-House-Columbia-MD-6171f892-8c29-404a-a63b-0fe92b2c9975.jpg?unique=true&d=900x450&f=webp",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Oliver's Carriage House in Columbia, Maryland is a charming and intimate historic venue nestled in the picturesque Ellicott City area of Howard County. This lovingly restored carriage house features rustic architectural details and warm, inviting spaces that create a truly unique setting for small weddings, private dinners, and special celebrations. Absolutely Perfect Catering & Events brings thoughtfully crafted, seasonal menus to Oliver's Carriage House, ensuring every gathering is filled with memorable flavors and gracious hospitality."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "0729521a-ed46-43b2-bd3c-373cc7442749",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.275Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Howard County",
+    "seoTitle": "Oliver's Carriage House Columbia MD | Absolutely Perfect Catering",
+    "venueType": "Historic Carriage House",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/oliver%E2%80%99s-carriage-house",
+    "title": "Oliver’s Carriage House",
+    "seoDescription": "Intimate historic carriage house venue in Columbia, MD. Oliver's Carriage House events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-730-4855",
+    "link-venues-all": "/venues/",
+    "capacity": 100
+  },
+  {
+    "mapLocation": {
+      "city": "Oxon Hill",
+      "location": {
+        "latitude": 38.8014,
+        "longitude": -76.9845
+      },
+      "streetAddress": {
+        "number": "6901",
+        "name": "Oxon Hill Rd"
+      },
+      "formatted": "6901 Oxon Hill Rd, Oxon Hill, MD 20745, USA",
+      "country": "US",
+      "postalCode": "20745",
+      "subdivision": "MD"
+    },
+    "website": "https://www.pgparks.com/facilities/oxon-hill-manor-historic-site",
+    "agentEmail": "ohmanor@pgparks.com",
+    "image": "https://www.pgparks.com/wp-content/uploads/2023/02/OxonHillManorAerial19-10_1200.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Oxon Hill Manor in Oxon Hill, Maryland is a breathtaking early 20th-century Georgian Revival mansion perched on a bluff overlooking the Potomac River in Prince George's County. With its grand classical architecture, sweeping river views, formal terraced gardens, and opulent interior, Oxon Hill Manor is one of the most spectacular wedding and event venues in the Washington-Baltimore region. Absolutely Perfect Catering & Events is privileged to serve this magnificent estate, crafting extraordinary menus that complement the venue's unmatched elegance and historic grandeur."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "cdb199b5-a3e2-46d6-9608-b72585270839",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.269Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Prince George's County",
+    "seoTitle": "Oxon Hill Manor Potomac Bluff MD Weddings | Absolutely Perfect Catering",
+    "venueType": "Historic Mansion / Estate",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/oxon-hill-manor",
+    "title": "Oxon Hill Manor",
+    "seoDescription": "Georgian Revival estate on the Potomac bluffs in Oxon Hill, MD. Oxon Hill Manor weddings catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "301-839-7782",
+    "link-venues-all": "/venues/",
+    "capacity": 150
+  },
+  {
+    "mapLocation": {
+      "city": "Annapolis",
+      "location": {
+        "latitude": 38.9423,
+        "longitude": -76.5279
+      },
+      "streetAddress": {
+        "number": "600",
+        "name": "Quiet Waters Park Rd"
+      },
+      "formatted": "600 Quiet Waters Park Rd, Annapolis, MD 21403, USA",
+      "country": "US",
+      "postalCode": "21403",
+      "subdivision": "MD"
+    },
+    "website": "https://www.aacounty.org/departments/recreation-parks/parks/quiet-waters/blue-heron-center/index.html",
+    "agentEmail": "qwpreservations@aacounty.org",
+    "image": "https://www.aacounty.org/sites/default/files/styles/large/public/2023-05/blue-heron-center-building.png?itok=mT-F-7Ji",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The Blue Heron Center at Quiet Waters Park in Annapolis, Maryland is a serene and picturesque venue surrounded by nature and rolling parkland. Overlooking the South River, this Anne Arundel County gem offers beautiful indoor event spaces and scenic outdoor terraces perfect for weddings and celebrations. Absolutely Perfect Catering & Events loves bringing farm-fresh, locally inspired cuisine to events at this natural sanctuary."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "87b89d48-6167-4609-9f61-371111e0185e",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.297Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Anne Arundel County",
+    "seoTitle": "Quiet Waters Park Blue Heron Room Annapolis | Absolutely Perfect Catering",
+    "venueType": "Garden / Outdoor",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/quiet-waters-park-%E2%80%93-blue-heron-room",
+    "title": "Quiet Waters Park – Blue Heron Room",
+    "seoDescription": "Nature-surrounded event venue in Annapolis, MD. The Blue Heron Room at Quiet Waters Park is catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-222-1777",
+    "link-venues-all": "/venues/",
+    "capacity": 150
+  },
+  {
+    "mapLocation": {
+      "city": "Baltimore",
+      "location": {
+        "latitude": 39.3242,
+        "longitude": -76.6223
+      },
+      "streetAddress": {
+        "number": "301",
+        "name": "W 29th St"
+      },
+      "formatted": "301 W 29th St, Baltimore, MD 21211, USA",
+      "country": "US",
+      "postalCode": "21211",
+      "subdivision": "MD"
+    },
+    "website": "https://r.housebaltimore.com/garage/",
+    "agentEmail": "hello@r.housebaltimore.com",
+    "image": "https://r.housebaltimore.com/wp-content/uploads/2019/12/Venue.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "R House Garage in Baltimore's Remington neighborhood is a dynamic and creative event space that transforms the vibrant R House food hall's multi-level garage into a one-of-a-kind venue for parties, receptions, and social celebrations. With its urban-industrial aesthetic, flexible open layout, and the energy of one of Baltimore's most celebrated culinary destinations, R House Garage offers a truly unique and lively setting for unforgettable events. Absolutely Perfect Catering & Events brings bold, inventive menus to R House Garage, perfectly matching the spirit and creativity of this exciting Baltimore venue."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "abea66d3-f429-4db6-b941-1f8a868be732",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.259Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Baltimore City",
+    "seoTitle": "R House Garage Baltimore Urban Event Venue | Absolutely Perfect Catering",
+    "venueType": "Modern / Urban",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/r-house-garage",
+    "title": "R House Garage",
+    "seoDescription": "Unique urban food hall event venue in Baltimore, MD. R House Garage events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "443-347-3570",
+    "link-venues-all": "/venues/",
+    "capacity": 300
+  },
+  {
+    "mapLocation": {
+      "city": "Hyattsville",
+      "location": {
+        "latitude": 38.962,
+        "longitude": -76.9496
+      },
+      "streetAddress": {
+        "number": "5015",
+        "name": "Baltimore Ave"
+      },
+      "formatted": "5015 Baltimore Ave, Hyattsville, MD 20781, USA",
+      "country": "US",
+      "postalCode": "20781",
+      "subdivision": "MD"
+    },
+    "website": "http://rockcreekmansion.com",
+    "agentEmail": "rcmansion@gmail.com",
+    "image": "https://rockcreekmansion.com/wp-content/uploads/2015/01/Rock-Creek-Mansion-1.png",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Rock Creek Mansion in Hyattsville, Maryland is an elegant historic estate located in Prince George's County, offering a refined and gracious setting for weddings, corporate dinners, and private celebrations. With its stately architecture, beautifully appointed interiors, and manicured grounds, Rock Creek Mansion creates an atmosphere of timeless sophistication just outside Washington, D.C. Absolutely Perfect Catering & Events brings elevated, artfully crafted cuisine to Rock Creek Mansion, ensuring that every event is as exceptional as the venue itself."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "e661120b-b63c-4854-99fd-06ad7dc7e429",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.266Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Prince George's County",
+    "seoTitle": "Rock Creek Mansion Hyattsville MD Events | Absolutely Perfect Catering",
+    "venueType": "Historic Mansion",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/rock-creek-mansion",
+    "title": "Rock Creek Mansion",
+    "seoDescription": "Historic estate near Washington DC in Hyattsville, MD. Rock Creek Mansion weddings catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "301-530-0258",
+    "link-venues-all": "/venues/",
+    "capacity": 150
+  },
+  {
+    "mapLocation": {
+      "city": "Darlington",
+      "location": {
+        "latitude": 39.6351,
+        "longitude": -76.2573
+      },
+      "streetAddress": {
+        "number": "1025",
+        "name": "Stone Ridge Hollow Rd"
+      },
+      "formatted": "1025 Stone Ridge Hollow Rd, Darlington, MD 21034, USA",
+      "country": "US",
+      "postalCode": "21034",
+      "subdivision": "MD"
+    },
+    "website": "http://stoneridgehollow.com",
+    "agentEmail": "info@stoneridgehollow.com",
+    "image": "https://static.wixstatic.com/media/4240b0_1fa7d6610b144eb79160e3fae7a9dac7~mv2.jpg/v1/fill/w_1070,h_636,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4240b0_1fa7d6610b144eb79160e3fae7a9dac7~mv2.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Stone Ridge Hollow in Darlington, Maryland is a breathtaking rustic luxury venue nestled in the scenic hills of Harford County. Featuring a beautifully designed barn and pavilion surrounded by woodlands and streams, Stone Ridge Hollow creates the perfect backdrop for intimate outdoor weddings and private celebrations. Absolutely Perfect Catering & Events partners with Stone Ridge Hollow to deliver exceptional farm-inspired, locally sourced menus that honor the beauty of the Maryland countryside."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "8250b5e9-fbce-4f3f-86a4-e9ae18b576fd",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.279Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Harford County",
+    "seoTitle": "Stone Ridge Hollow Darlington MD Wedding Venue | Absolutely Perfect",
+    "venueType": "Farm / Barn",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/stone-ridge-hollow",
+    "title": "Stone Ridge Hollow",
+    "seoDescription": "Rustic luxury wedding venue in Darlington, MD. Stone Ridge Hollow outdoor events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "443-504-7076",
+    "link-venues-all": "/venues/",
+    "capacity": 175
+  },
+  {
+    "mapLocation": {
+      "city": "Dickerson",
+      "location": {
+        "latitude": 39.2347,
+        "longitude": -77.4319
+      },
+      "streetAddress": {
+        "number": "7901",
+        "name": "Comus Rd"
+      },
+      "formatted": "7901 Comus Rd, Dickerson, MD 20842, USA",
+      "country": "US",
+      "postalCode": "20842",
+      "subdivision": "MD"
+    },
+    "website": "https://sugarloafmd.com/strong-mansion/",
+    "agentEmail": "sugarloaf46@aol.com",
+    "image": "https://sugarloafmd.com/wp-content/uploads/2020/06/Strong-Mansion-1.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Strong Mansion at Sugarloaf Mountain in Dickerson, Maryland is a strikingly beautiful event venue set at the foot of Sugarloaf Mountain in Montgomery County. This elegant early 20th-century manor house features exquisite period details, formal gardens, and stunning views of the surrounding countryside and mountain, creating a romantic and distinguished setting for weddings and private events. Absolutely Perfect Catering & Events is honored to serve Strong Mansion, delivering refined and carefully crafted menus that match the timeless sophistication of this extraordinary Maryland venue."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "4d5d1c5b-5458-46f6-8a9f-b562526e214b",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.267Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Montgomery County",
+    "seoTitle": "Strong Mansion Sugarloaf Mountain MD Weddings | Absolutely Perfect",
+    "venueType": "Historic Mansion / Estate",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/strong-mansion",
+    "title": "Strong Mansion",
+    "seoDescription": "1920s manor house at Sugarloaf Mountain in Dickerson, MD. Strong Mansion weddings catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "301-869-7846",
+    "link-venues-all": "/venues/",
+    "capacity": 150
+  },
+  {
+    "mapLocation": {
+      "city": "Havre de Grace",
+      "location": {
+        "latitude": 39.5539,
+        "longitude": -76.1318
+      },
+      "streetAddress": {
+        "number": "410",
+        "name": "Oakington Rd"
+      },
+      "formatted": "410 Oakington Rd, Havre de Grace, MD 21078, USA",
+      "country": "US",
+      "postalCode": "21078",
+      "subdivision": "MD"
+    },
+    "website": "http://www.swanharborfarm.org",
+    "agentEmail": "info@swanharborfarm.org",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMhCX0n67X3PLywoKsOvupY1BzYV7bBBb5Ro4bc=s680-w680-h510",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Swan Harbor Farm in Havre de Grace, Maryland is a picturesque working farm and event venue situated along the Chesapeake Bay in Harford County. With its sweeping bay views, historic barn, and beautifully maintained grounds, Swan Harbor Farm offers an idyllic setting for outdoor weddings, receptions, and social gatherings. Absolutely Perfect Catering & Events is delighted to pair its locally inspired, farm-fresh menus with the natural splendor of this beloved Chesapeake Bay venue."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "6a430215-387c-4185-b682-f82887578380",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.281Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Harford County",
+    "seoTitle": "Swan Harbor Farm Havre de Grace MD Weddings | Absolutely Perfect",
+    "venueType": "Farm / Waterfront",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/swan-harbor-farm",
+    "title": "Swan Harbor Farm",
+    "seoDescription": "Chesapeake Bay working farm venue in Havre de Grace, MD. Swan Harbor Farm events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-879-2000",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Annapolis",
+      "location": {
+        "latitude": 38.9784,
+        "longitude": -76.5418
+      },
+      "streetAddress": {
+        "number": "610",
+        "name": "North Bestgate Road"
+      },
+      "formatted": "610 North Bestgate Road, Annapolis, MD 21401, USA",
+      "country": "US",
+      "postalCode": "21401",
+      "subdivision": "MD"
+    },
+    "website": "https://www.soaringtimbers.org",
+    "agentEmail": "atreeum@soaringtimbers.org",
+    "image": "https://static.wixstatic.com/media/soaringtimbers_exterior.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The Atreeum at Soaring Timbers is a modern, post-and-beam event venue nestled among the trees just off Bestgate Road in Annapolis, Maryland — perfectly situated minutes from downtown Annapolis yet offering the privacy and seclusion of a family estate. With 4,000 square feet of open floor plan, soaring vaulted ceilings, and sophisticated neutral décor, The Atreeum serves as a breathtaking blank canvas for weddings, receptions, and special events of all styles. The main banquet hall accommodates up to 275 seated guests with ample room for dining, dancing, and mingling, bathed in natural light from all sides. The venue features a sweeping staircase and balcony ideal for grand entrances and cocktail hours, along with a beautifully appointed bridal suite with a wet bar and lounge area, a full commercial kitchen, and a well-stocked bar. Absolutely Perfect Catering & Events is proud to serve as an approved caterer at The Atreeum at Soaring Timbers, delivering exceptional food and service for this beloved Anne Arundel County venue."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "8f58848c-1a5a-4291-b340-bff9becc1798",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2026-03-10T20:12:11.686Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T20:12:11.686Z"
+    },
+    "slug": "atreeum-at-soaring-timbers-annapolis-md",
+    "county": "Anne Arundel County",
+    "seoTitle": "The Atreeum at Soaring Timbers Wedding Venue | Annapolis MD",
+    "venueType": "Banquet Hall / Indoor",
+    "address": "610 North Bestgate Road, Annapolis, MD 21401",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/the-atreeum-at-soaring-timbers",
+    "title": "The Atreeum at Soaring Timbers",
+    "seoDescription": "The Atreeum at Soaring Timbers is a stunning modern event venue in Annapolis, MD featuring 4,000 sq ft of open floor plan space, soaring ceilings, and elegant décor. Catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "(443) 761-7533",
+    "link-venues-all": "/venues/",
+    "phone": "(443) 761-7533",
+    "capacity": 275
+  },
+  {
+    "mapLocation": {
+      "city": "Baltimore",
+      "location": {
+        "latitude": 39.3272,
+        "longitude": -76.6452
+      },
+      "streetAddress": {
+        "number": "1",
+        "name": "Safari Place"
+      },
+      "formatted": "1 Safari Place, Baltimore, MD 21217, USA",
+      "country": "US",
+      "postalCode": "21217",
+      "subdivision": "MD"
+    },
+    "website": "https://www.marylandzoo.org/groups-and-parties/weddings/",
+    "agentEmail": "rentals@marylandzoo.org",
+    "image": "https://www.marylandzoo.org/wp-content/uploads/2022/03/MansionHouse_Exterior.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The Maryland Zoo in Baltimore offers one of the most unique and unforgettable wedding experiences in Maryland, set across 135 acres in the urban oasis of Druid Hill Park. The crown jewel for weddings is the historic Mansion House (circa 1801), featuring a stunning wrap-around porch with individually controlled chandeliers, large windows overlooking the park, and full climate control — accommodating up to 180 guests. The Lakeside Pavilion offers breathtaking waterfront views with a fountain for outdoor ceremonies, and the Penguin Coast exhibit provides a one-of-a-kind backdrop for smaller ceremonies and cocktail hours. Optional animal ambassador encounters — including penguins, owls, and other wildlife — can be added for guests. Absolutely Perfect Catering & Events is an approved caterer at The Maryland Zoo, bringing exceptional food and service to this truly magical Baltimore venue."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "42671513-0ceb-4d86-b4d8-37ccf9f2b412",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2026-03-10T20:10:34.412Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T20:10:34.412Z"
+    },
+    "slug": "maryland-zoo-baltimore-md",
+    "county": "Baltimore City",
+    "seoTitle": "Maryland Zoo Wedding Venue | Baltimore City MD",
+    "venueType": "Zoo / Unique",
+    "address": "1 Safari Place, Baltimore, MD 21217",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/the-maryland-zoo",
+    "title": "The Maryland Zoo",
+    "seoDescription": "Host a one-of-a-kind wedding at The Maryland Zoo in Baltimore, MD. Unique indoor and outdoor event spaces in Druid Hill Park, including the historic 1801 Mansion House. Catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "(443) 552-5276",
+    "link-venues-all": "/venues/",
+    "phone": "(443) 552-5276",
+    "capacity": 180
+  },
+  {
+    "mapLocation": {
+      "city": "Ellicott City",
+      "location": {
+        "latitude": 39.2711,
+        "longitude": -76.8197
+      },
+      "streetAddress": {
+        "number": "9001",
+        "name": "Chevrolet Dr"
+      },
+      "formatted": "9001 Chevrolet Dr, Ellicott City, MD 21042, USA",
+      "country": "US",
+      "postalCode": "21042",
+      "subdivision": "MD"
+    },
+    "website": "https://themeetinghouse.org/",
+    "agentEmail": "ebudd.themeetinghouse@gmail.com",
+    "image": "https://images.squarespace-cdn.com/content/v1/56cf0ff7b09f953e4e7d613d/1510085279612-E1TTYHMQ2OIFATCSOR25/TMH+Room+200+Banquet+cr.jpg?format=1500w",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The Meeting House in Ellicott City is a versatile and charming event venue ideal for weddings, corporate gatherings, and social celebrations. With flexible indoor spaces, warm architectural details, and attentive staff, this venue creates the perfect setting for any occasion. Absolutely Perfect Catering & Events brings exceptional food and service to every event held at The Meeting House, ensuring your guests enjoy a truly memorable experience."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "5de96a4d-2d41-4c7b-83b8-4ebc81de0c30",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-05T18:59:04.902Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Howard County",
+    "seoTitle": "The Meeting House Ellicott City | Event Catering by Absolutely Perfect",
+    "venueType": "Event Center",
+    "priceRange": "$$",
+    "link-venues-title": "/venues/the-meeting-house",
+    "title": "The Meeting House",
+    "seoDescription": "Plan your wedding or event at The Meeting House in Ellicott City, MD. Absolutely Perfect Catering & Events provides exceptional catering at this versatile Howard County venue.",
+    "agentPhone": "443-510-7076",
+    "link-venues-all": "/venues/",
+    "capacity": 250
+  },
+  {
+    "mapLocation": {
+      "city": "Columbia",
+      "location": {
+        "latitude": 39.2017,
+        "longitude": -76.8413
+      },
+      "streetAddress": {
+        "number": "5851",
+        "name": "Robert Oliver Pl"
+      },
+      "formatted": "5851 Robert Oliver Pl, Columbia, MD 21045, USA",
+      "country": "US",
+      "postalCode": "21045",
+      "subdivision": "MD"
+    },
+    "website": "https://www.theotherbarn.org/",
+    "agentEmail": "omcaprog@columbiavillages.org",
+    "image": "https://static.wixstatic.com/media/5d9dab_d59cc826d162445a89f10556e7c63154~mv2.jpg/v1/fill/w_1107,h_738,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5d9dab_d59cc826d162445a89f10556e7c63154~mv2.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The Other Barn in Columbia, Maryland is a beloved and versatile community event venue nestled within the Columbia Association's network of recreational spaces in Howard County. Featuring warm, flexible indoor spaces and a welcoming ambiance, The Other Barn is a wonderful setting for weddings, community gatherings, and private celebrations. Absolutely Perfect Catering & Events is delighted to provide exceptional catering at The Other Barn, bringing fresh, flavorful menus to every event hosted in this spirited Columbia venue."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "9cf92165-92ee-4461-add7-3a77d221b278",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.273Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.674Z"
+    },
+    "county": "Howard County",
+    "seoTitle": "The Other Barn Columbia MD Events | Absolutely Perfect Catering",
+    "venueType": "Community / Event Center",
+    "priceRange": "$",
+    "link-venues-title": "/venues/the-other-barn",
+    "title": "The Other Barn",
+    "seoDescription": "Community event venue in Columbia, MD. The Other Barn weddings & private celebrations catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-730-4610",
+    "link-venues-all": "/venues/",
+    "capacity": 175
+  },
+  {
+    "mapLocation": {
+      "city": "Newburg",
+      "location": {
+        "latitude": 38.3614,
+        "longitude": -76.8538
+      },
+      "streetAddress": {
+        "number": "16090",
+        "name": "Piney Point Rd"
+      },
+      "formatted": "16090 Piney Point Rd, Newburg, MD 20664, USA",
+      "country": "US",
+      "postalCode": "20664",
+      "subdivision": "MD"
+    },
+    "website": "https://thepavilionatweatherly.com",
+    "agentEmail": "weatherlywaterfront@gmail.com",
+    "image": "https://static.wixstatic.com/media/b6efc2_03e0c1aace4d41e7b7bd011a1630ab89~mv2.jpg/v1/fill/w_1132,h_575,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b6efc2_03e0c1aace4d41e7b7bd011a1630ab89~mv2.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The Pavilion at Weatherly Farm in Newburg, Maryland is a stunning waterfront venue set along the scenic shores of the Potomac River in Charles County. This elegant open-air pavilion combines rustic charm with breathtaking water views, creating a romantic and unforgettable setting for outdoor weddings and celebrations. Absolutely Perfect Catering & Events provides beautiful farm-inspired cuisine at Weatherly Farm, perfectly complementing the natural beauty of this Southern Maryland riverside destination."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "723e7bf1-4c95-4429-8277-97c451051910",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.282Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.675Z"
+    },
+    "county": "Charles County",
+    "seoTitle": "Pavilion at Weatherly Farm Newburg MD Weddings | Absolutely Perfect",
+    "venueType": "Farm / Waterfront",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/the-pavilion-at-weatherly-farm",
+    "title": "The Pavilion at Weatherly Farm",
+    "seoDescription": "Potomac waterfront farm venue in Newburg, MD. Pavilion at Weatherly Farm events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "301-385-8969",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Havre de Grace",
+      "location": {
+        "latitude": 39.5731,
+        "longitude": -76.1182
+      },
+      "streetAddress": {
+        "number": "425",
+        "name": "Darlington Rd"
+      },
+      "formatted": "425 Darlington Rd, Havre de Grace, MD 21078, USA",
+      "country": "US",
+      "postalCode": "21078",
+      "subdivision": "MD"
+    },
+    "website": "https://vignonmanorfarm.com",
+    "agentEmail": "info@vignonmanorfarm.com",
+    "image": "https://static.wixstatic.com/media/vignonmanorfarm-barn-exterior.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Vignon Manor Farm is a luxury barn wedding venue nestled on a 160-acre private family-owned estate in Havre de Grace, Maryland. Fully climate-controlled with nearly 30,000 sq ft of event space, the venue features a grand main barn with large windows and chandeliers, a two-story Octagon cocktail space with spiral staircase and intricate stonework, and a spacious Manor House with a bridal suite and full bar for getting ready. The property offers 360-degree views of rolling hills and multiple ceremony options both indoors and outdoors. Family-owned and operated since 1997. Absolutely Perfect Catering & Events is proud to serve events at Vignon Manor Farm, where outside caterers are welcome."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "3a1d87a3-3851-41ec-9441-36840f7650d0",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2026-03-10T19:49:25.222Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.675Z"
+    },
+    "county": "Harford County",
+    "seoTitle": "Vignon Manor Farm Wedding Venue | Havre de Grace, Harford County MD",
+    "venueType": "Barn / Farm Estate",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/vignon-manor-farm",
+    "title": "Vignon Manor Farm",
+    "seoDescription": "Vignon Manor Farm in Havre de Grace, Maryland is a luxury barn wedding venue on a 160-acre private estate in Harford County. Climate-controlled with stunning views and up to 275 guests.",
+    "agentPhone": "(443) 752-1596",
+    "link-venues-all": "/venues/",
+    "capacity": 275
+  },
+  {
+    "mapLocation": {
+      "city": "Ijamsville",
+      "location": {
+        "latitude": 39.3467,
+        "longitude": -77.3034
+      },
+      "streetAddress": {
+        "number": "7519",
+        "name": "Montevideo Rd"
+      },
+      "formatted": "7519 Montevideo Rd, Ijamsville, MD 21754, USA",
+      "country": "US",
+      "postalCode": "21754",
+      "subdivision": "MD"
+    },
+    "website": "http://theoverlooks.com",
+    "agentEmail": "markhlynch@gmail.com",
+    "image": "https://cdn.b12.io/client_media/3auErZQm/0ce77786-1f70-11eb-9f70-0242ac110003-jpg-hero_image.jpeg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Walker's Overlook in Ijamsville, Maryland is a spectacular hilltop estate venue in Frederick County offering sweeping panoramic views of the Maryland countryside. This magnificent property features a grand manor house, manicured gardens, and expansive outdoor terraces that create an awe-inspiring setting for weddings and upscale celebrations. Absolutely Perfect Catering & Events is honored to bring its culinary expertise to Walker's Overlook, pairing world-class cuisine with one of Maryland's most dramatic and breathtaking event settings."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "99670d52-ad81-4835-8d32-e0dbc9112e47",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.271Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.675Z"
+    },
+    "county": "Frederick County",
+    "seoTitle": "Walker's Overlook Ijamsville MD Weddings | Absolutely Perfect Catering",
+    "venueType": "Historic Mansion / Estate",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/walker%E2%80%99s-overlook",
+    "title": "Walker’s Overlook",
+    "seoDescription": "Hilltop panoramic estate venue near Frederick, MD. Walker's Overlook weddings catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "301-748-5667",
+    "link-venues-all": "/venues/",
+    "capacity": 300
+  },
+  {
+    "mapLocation": {
+      "city": "Annapolis",
+      "location": {
+        "latitude": 38.9784,
+        "longitude": -76.4951
+      },
+      "streetAddress": {
+        "number": "1",
+        "name": "Dock St"
+      },
+      "formatted": "1 Dock St, Annapolis, MD 21401, USA",
+      "country": "US",
+      "postalCode": "21401",
+      "subdivision": "MD"
+    },
+    "website": "https://watermarkjourney.com/private-yacht-charters-weddings/event-planning/",
+    "image": "https://watermarkjourney.com/wp-content/uploads/2023/11/wedding-inspiration-23-1-456x684.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Watermark Cruises in Annapolis, Maryland offers a uniquely unforgettable event experience aboard beautifully appointed cruise vessels on the Chesapeake Bay and Severn River. Whether you're hosting a wedding reception, rehearsal dinner, or corporate event, sailing with Watermark creates an atmosphere unlike any land-based venue. Absolutely Perfect Catering & Events crafts exceptional onboard menus that match the magic of the water, bringing gourmet dining to the heart of the bay."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "d45d58e2-2202-4047-9c06-fb693cbb7a89",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.296Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.675Z"
+    },
+    "county": "Anne Arundel County",
+    "seoTitle": "Watermark Cruises Annapolis Wedding Venue | Absolutely Perfect Catering",
+    "venueType": "Waterfront / Cruise",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/watermark-cruises",
+    "title": "Watermark Cruises",
+    "seoDescription": "Celebrate aboard Watermark Cruises on the Chesapeake Bay in Annapolis, MD. Unique waterfront wedding venue catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-268-7601",
+    "link-venues-all": "/venues/",
+    "capacity": 200
+  },
+  {
+    "mapLocation": {
+      "city": "Baltimore",
+      "location": {
+        "latitude": 39.2901,
+        "longitude": -76.6231
+      },
+      "streetAddress": {
+        "number": "519",
+        "name": "W Fayette St"
+      },
+      "formatted": "519 W Fayette St, Baltimore, MD 21201, USA",
+      "country": "US",
+      "postalCode": "21201",
+      "subdivision": "MD"
+    },
+    "website": "https://www.westminsterhall.org/events",
+    "agentEmail": "info@westminsterhall.org",
+    "image": "https://static.wixstatic.com/media/c4e951_36534cc29137407fa146011a99e44d85~mv2.jpg/v1/fill/w_980,h_446,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c4e951_36534cc29137407fa146011a99e44d85~mv2.jpg",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "Westminster Hall in downtown Baltimore is one of Maryland's most historic and architecturally magnificent event venues, dating back to 1852. Its soaring Gothic-style ceilings, original stonework, and stained glass create an atmosphere of timeless grandeur, perfect for elegant weddings and formal celebrations. Absolutely Perfect Catering & Events has the privilege of serving Westminster Hall, delivering world-class cuisine that matches the venue's incomparable beauty and heritage."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "726e3335-98ad-4450-8235-39a18fc94c10",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.289Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-10T19:59:36.675Z"
+    },
+    "county": "Baltimore City",
+    "seoTitle": "Westminster Hall Baltimore Wedding Venue | Absolutely Perfect Catering",
+    "venueType": "Historic Mansion",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/westminster-hall",
+    "title": "Westminster Hall",
+    "seoDescription": "Gothic 1852 wedding venue in downtown Baltimore. Westminster Hall events catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-706-2072",
+    "link-venues-all": "/venues/",
+    "capacity": 250
+  },
+  {
+    "mapLocation": {
+      "city": "Baltimore",
+      "location": {
+        "latitude": 39.2868,
+        "longitude": -76.6097
+      },
+      "streetAddress": {
+        "number": "401",
+        "name": "E Pratt St"
+      },
+      "formatted": "401 E Pratt St, Baltimore, MD 21202, USA",
+      "country": "US",
+      "postalCode": "21202",
+      "subdivision": "MD"
+    },
+    "website": "https://skylinewtc.com/",
+    "agentEmail": "info@dcnadia.com",
+    "image": "https://i0.wp.com/skylinewtc.com/wp-content/uploads/2021/03/constellation-room_img.jpg?w=675&ssl=1",
+    "description": {
+      "nodes": [
+        {
+          "type": "PARAGRAPH",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "textData": {
+                "text": "The World Trade Center Baltimore offers one of the most spectacular event settings in Maryland, with 360-degree panoramic views of the Baltimore Inner Harbor from its top-floor venue. This iconic skyscraper, the world's tallest pentagonal building, creates an awe-inspiring backdrop for weddings, corporate events, and milestone celebrations. Absolutely Perfect Catering & Events elevates every occasion at the World Trade Center with exceptional cuisine and impeccable service worthy of the stunning skyline views."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "70b40039-410f-48bd-8fa6-82c287d1916b",
+    "_owner": "b3ee75d6-4ca4-498a-a40d-1cd29e3208ba",
+    "_createdDate": {
+      "$date": "2024-01-04T17:12:20.288Z"
+    },
+    "_updatedDate": {
+      "$date": "2026-03-06T21:13:08.652Z"
+    },
+    "county": "Baltimore City",
+    "seoTitle": "World Trade Center Baltimore Skyline Venue | Absolutely Perfect Catering",
+    "venueType": "Skyline / Rooftop",
+    "priceRange": "$$$",
+    "link-venues-title": "/venues/world-trade-center",
+    "title": "World Trade Center Baltimore",
+    "seoDescription": "360° panoramic views at World Trade Center Baltimore. Stunning skyline wedding & event venue catered by Absolutely Perfect Catering & Events.",
+    "agentPhone": "410-385-4721",
+    "link-venues-all": "/venues/",
+    "capacity": 300
+  }
+]

@@ -1,70 +1,88 @@
 /**
- * Wix CMS Headless Integration
- * Site: Absolutely Perfect Catering & Events
- * Site ID: 0aac8a6e-1b2e-4682-b845-00a5490035f4
- * Collections: Properties (Venues), CityPages (Service Areas)
+ * cms.js — Wix CMS Data Layer (Static JSON Edition)
+ *
+ * Data is pre-fetched from Wix CMS and stored as static JSON files in /data/.
+ * This avoids CORS issues and keeps the API key server-side.
+ *
+ * To refresh data from Wix CMS, run: node fetch-data.mjs
+ * Then redeploy the updated data/ folder alongside the site files.
+ *
+ * Wix CMS Site ID: 0aac8a6e-1b2e-4682-b845-00a5490035f4
+ * Collections:     Properties (Venues) · CityPages (Service Areas)
  */
 
-const WIX_SITE_ID = '0aac8a6e-1b2e-4682-b845-00a5490035f4';
-const WIX_API_KEY = 'IST.eyJraWQiOiJQb3pIX2FDMiIsImFsZyI6IlJTMjU2In0.eyJkYXRhIjoie1wiaWRcIjpcImRkZGRkODE0LWNmMjctNDM4Yi1iNDdkLTNjZDQyOTkxNjk0NlwiLFwiaWRlbnRpdHlcIjp7XCJ0eXBlXCI6XCJhcHBsaWNhdGlvblwiLFwiaWRcIjpcIjZhYjE5NmU4LTg1NjAtNGU3Ni1hYmE1LTFjMmFmOGRjNmY5YlwifSxcInRlbmFudFwiOntcInR5cGVcIjpcImFjY291bnRcIixcImlkXCI6XCJiM2VlNzVkNi00Y2E0LTQ5OGEtYTQwZC0xY2QyOWUzMjA4YmFcIn19IiwiaWF0IjoxNzc1NTg5MzMzfQ.h2mX5-ZPd5uCcj0HFrC3mpMwO-LLdIzPhEDH3zjEDO66mpPQ-t7c0cjhEowDjEPRiGD53qiruNpZGuo7Av-Nzwsae9k2KW0Zotk6gOPrCsgan7XgKqOrMJIwFbleyewezdrB-GxhUJFtemwbvTFjl43RWTfnj4oZT5GKmcUko7xFEx6tPmK9RVAx_CZwo0k6r5N9RVpxA8-2J4QtjcVKTBupefZ1bw_QNjaUI8a-LxVMvB7F08pWUHEEXe4ejm3Luvyp2SeUk_KS_j4ASnXew2JJLDfQAudo-PJDWoTIbNxRLX6xmsN0F_6Jz3ZtsfdcAOtSR2D6tFu-y3xM-hHqWQ';
-const WIX_API_BASE = 'https://www.wixapis.com/wix-data/v2/items/query';
+// Cache loaded JSON so we only fetch each file once per page load
+const _cache = {};
 
-/**
- * Query any Wix CMS collection
- * @param {string} collectionId
- * @param {object} query - Wix Data query object
- */
-async function queryWixCollection(collectionId, query = {}) {
-  const response = await fetch(WIX_API_BASE, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'wix-site-id': WIX_SITE_ID,
-      'Authorization': WIX_API_KEY,
-    },
-    body: JSON.stringify({ dataCollectionId: collectionId, query }),
-  });
-  if (!response.ok) throw new Error(`Wix CMS ${collectionId}: ${response.status}`);
-  const json = await response.json();
-  return json.dataItems?.map(item => item.data) || [];
+async function _loadJSON(file) {
+  if (_cache[file]) return _cache[file];
+  const res = await fetch(file);
+  if (!res.ok) throw new Error(`Failed to load ${file}: ${res.status}`);
+  _cache[file] = await res.json();
+  return _cache[file];
 }
 
 /**
- * Get venue by URL slug (derived from link-venues-title field)
- * CMS stores path as "/venues/{slug}" so we match on that field
+ * Return all venues from the pre-built static JSON.
+ * Optionally filter by county string or pipe-separated county list.
+ */
+async function getVenues(county = null) {
+  const all = await _loadJSON('data/venues.json');
+  if (!county) return all;
+  const counties = county.split('|');
+  return all.filter(v => counties.includes(v.county));
+}
+
+/**
+ * Return a single venue by its URL slug.
+ * Slug is derived from the CMS field link-venues-title: "/venues/{slug}"
  */
 async function getVenueBySlug(slug) {
-  const items = await queryWixCollection('Properties', {
-    filter: { 'link-venues-title': { $eq: `/venues/${slug}` } },
-    paging: { limit: 1 },
-  });
-  return items[0] || null;
+  const all = await _loadJSON('data/venues.json');
+  return all.find(v => slugFromPath(v['link-venues-title']) === slug) || null;
 }
 
 /**
- * Get city page by slug field
- */
-async function getCityBySlug(slug) {
-  const items = await queryWixCollection('CityPages', {
-    filter: { slug: { $eq: slug } },
-    paging: { limit: 1 },
-  });
-  return items[0] || null;
-}
-
-/**
- * Get all venues in a county (for related venues on city pages)
+ * Return venues in the same county (for related-venues panels).
  */
 async function getVenuesByCounty(county) {
-  return queryWixCollection('Properties', {
-    filter: { county: { $eq: county } },
-    sort: [{ fieldName: 'title', order: 'ASC' }],
-    paging: { limit: 20 },
-  });
+  const all = await _loadJSON('data/venues.json');
+  return all.filter(v => v.county === county);
 }
 
 /**
- * Extract plain text from Wix Rich Content nodes
+ * Return all cities.
+ * Optionally filter by pipe-separated region list.
+ */
+async function getCities(region = null) {
+  const all = await _loadJSON('data/cities.json');
+  if (!region) return all;
+  const regions = region.split('|');
+  return all.filter(c => regions.includes(c.region));
+}
+
+/**
+ * Return a single city page by its slug field.
+ */
+async function getCityBySlug(slug) {
+  const all = await _loadJSON('data/cities.json');
+  return all.find(c => c.slug === slug) || null;
+}
+
+/**
+ * Generic query helper — kept for compatibility but reads from static JSON.
+ * Only supports simple equality filters on top-level fields.
+ */
+async function queryWixCollection(collectionId) {
+  if (collectionId === 'Properties') return getVenues();
+  if (collectionId === 'CityPages') return getCities();
+  throw new Error(`Unknown collection: ${collectionId}`);
+}
+
+// ─── Utility functions ────────────────────────────────────────────────────────
+
+/**
+ * Extract plain text from Wix Rich Content node tree.
  */
 function parseRichContent(rc) {
   if (!rc) return '';
@@ -82,28 +100,39 @@ function parseRichContent(rc) {
 }
 
 /**
- * Build a higher-resolution Wix static media URL
+ * Build a high-resolution Wix static media URL.
+ * The image field from the CMS is a full wixstatic.com URL with fill params.
  */
 function wixImageUrl(raw, w = 900, h = 600) {
   if (!raw) return `https://placehold.co/${w}x${h}/2A2420/C9A96E?text=Venue`;
+
+  let url = '';
   if (typeof raw === 'string' && raw.startsWith('http')) {
-    // Swap Wix fill dimensions for higher quality
-    return raw.replace(/\/fill\/w_\d+,h_\d+[^/]*\//, `/fill/w_${w},h_${h},al_c,q_85,usm_0.66_1.00_0.01,enc_auto/`);
+    url = raw;
+  } else if (raw && typeof raw === 'object') {
+    url = raw.url || '';
   }
-  return raw.url || `https://placehold.co/${w}x${h}/2A2420/C9A96E?text=Venue`;
+  if (!url) return `https://placehold.co/${w}x${h}/2A2420/C9A96E?text=Venue`;
+
+  // Replace existing fill dimensions with requested size
+  if (url.includes('/fill/')) {
+    return url.replace(/\/fill\/[^/]+\//, `/fill/w_${w},h_${h},al_c,q_85,usm_0.66_1.00_0.01,enc_auto/`);
+  }
+  // Append fill params if not already present
+  return url.replace(/\/v1\/([^/]+)\//, `/v1/$1/fill/w_${w},h_${h},al_c,q_85,enc_auto/`);
 }
 
 /**
- * Extract slug from a Wix CMS link path
- * e.g. "/venues/american-visionary-arts-museum" → "american-visionary-arts-museum"
+ * Extract the last path segment as a slug.
+ * e.g. "/venues/some-place" → "some-place"
  */
-function slugFromPath(path) {
-  if (!path) return '';
-  return path.split('/').filter(Boolean).pop() || '';
+function slugFromPath(p) {
+  if (!p) return '';
+  return p.split('/').filter(Boolean).pop() || '';
 }
 
 /**
- * Get slug from current page URL query string
+ * Read the ?slug= query param from the current page URL.
  */
 function getSlugFromURL() {
   return new URLSearchParams(window.location.search).get('slug') || '';
